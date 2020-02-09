@@ -3,3290 +3,3290 @@
     "Location": "拉萨",
     "Translation": "Lhasa",
     "Full Location": "西藏 拉萨",
-    "Long": 29.652491,
-    "Lat": 91.17211
+    "Lat": 29.652491,
+    "Long": 91.17211
   },
   {
     "Location": "西藏",
     "Translation": "Tibet",
     "Full Location": "西藏",
-    "Long": 30.1533605,
-    "Lat": 88.7878678
+    "Lat": 30.1533605,
+    "Long": 88.7878678
   },
   {
     "Location": "澳门",
     "Translation": "Macao",
     "Full Location": "澳门",
-    "Long": 22.198745,
-    "Lat": 113.543873
+    "Lat": 22.198745,
+    "Long": 113.543873
   },
   {
     "Location": "西宁",
     "Translation": "Xining",
     "Full Location": "青海 西宁",
-    "Long": 36.617134,
-    "Lat": 101.778223
+    "Lat": 36.617134,
+    "Long": 101.778223
   },
   {
     "Location": "海北州",
     "Translation": "Haibei State",
     "Full Location": "青海 海北州",
-    "Long": 36.954413,
-    "Lat": 100.900997
+    "Lat": 36.954413,
+    "Long": 100.900997
   },
   {
     "Location": "青海",
     "Translation": "Qinghai",
     "Full Location": "青海",
-    "Long": 35.744798,
-    "Lat": 96.4077358
+    "Lat": 35.744798,
+    "Long": 96.4077358
   },
   {
     "Location": "台湾",
     "Translation": "Taiwan",
     "Full Location": "台湾",
-    "Long": 23.69781,
-    "Lat": 120.960515
+    "Lat": 23.69781,
+    "Long": 120.960515
   },
   {
     "Location": "香港",
     "Translation": "Hong Kong",
     "Full Location": "香港",
-    "Long": 22.3193039,
-    "Lat": 114.1693611
+    "Lat": 22.3193039,
+    "Long": 114.1693611
   },
   {
     "Location": "六盘水",
     "Translation": "Liupanshui",
     "Full Location": "贵州 六盘水",
-    "Long": 26.592666,
-    "Lat": 104.830359
+    "Lat": 26.592666,
+    "Long": 104.830359
   },
   {
     "Location": "毕节",
     "Translation": "Bijie",
     "Full Location": "贵州 毕节",
-    "Long": 27.283955,
-    "Lat": 105.291643
+    "Lat": 27.283955,
+    "Long": 105.291643
   },
   {
     "Location": "黔西南州",
     "Translation": "Qianxinan Prefecture",
     "Full Location": "贵州 黔西南州",
-    "Long": 25.087856,
-    "Lat": 104.906397
+    "Lat": 25.087856,
+    "Long": 104.906397
   },
   {
     "Location": "黔南州",
     "Translation": "Qiannan Prefecture",
     "Full Location": "贵州 黔南州",
-    "Long": 26.254092,
-    "Lat": 107.522097
+    "Lat": 26.254092,
+    "Long": 107.522097
   },
   {
     "Location": "黔东南州",
     "Translation": "Qiandongnan Prefecture",
     "Full Location": "贵州 黔东南州",
-    "Long": 26.583442,
-    "Lat": 107.982859
+    "Lat": 26.583442,
+    "Long": 107.982859
   },
   {
     "Location": "贵阳",
     "Translation": "Guiyang",
     "Full Location": "贵州 贵阳",
-    "Long": 26.647661,
-    "Lat": 106.630153
+    "Lat": 26.647661,
+    "Long": 106.630153
   },
   {
     "Location": "铜仁地区",
     "Translation": "Tongren area",
     "Full Location": "贵州 铜仁地区",
-    "Long": 27.731514,
-    "Lat": 109.189598
+    "Lat": 27.731514,
+    "Long": 109.189598
   },
   {
     "Location": "遵义",
     "Translation": "Zunyi",
     "Full Location": "贵州 遵义",
-    "Long": 27.725654,
-    "Lat": 106.927389
+    "Lat": 27.725654,
+    "Long": 106.927389
   },
   {
     "Location": "安顺",
     "Translation": "Anshun",
     "Full Location": "贵州 安顺",
-    "Long": 26.253088,
-    "Lat": 105.947595
+    "Lat": 26.253088,
+    "Long": 105.947595
   },
   {
     "Location": "贵州",
     "Translation": "Guizhou",
     "Full Location": "贵州",
-    "Long": 26.8429645,
-    "Lat": 107.2902839
+    "Lat": 26.8429645,
+    "Long": 107.2902839
   },
   {
     "Location": "延边",
     "Translation": "Yanbian",
     "Full Location": "吉林 延边",
-    "Long": 42.909408,
-    "Lat": 129.4718681
+    "Lat": 42.909408,
+    "Long": 129.4718681
   },
   {
     "Location": "四平",
     "Translation": "Siping",
     "Full Location": "吉林 四平",
-    "Long": 43.166419,
-    "Lat": 124.350398
+    "Lat": 43.166419,
+    "Long": 124.350398
   },
   {
     "Location": "通化",
     "Translation": "Tonghua",
     "Full Location": "吉林 通化",
-    "Long": 41.728401,
-    "Lat": 125.939697
+    "Lat": 41.728401,
+    "Long": 125.939697
   },
   {
     "Location": "吉林市",
     "Translation": "Jilin City",
     "Full Location": "吉林 吉林市",
-    "Long": 43.837883,
-    "Lat": 126.549572
+    "Lat": 43.837883,
+    "Long": 126.549572
   },
   {
     "Location": "公主岭",
     "Translation": "Gongzhuling",
     "Full Location": "吉林 公主岭",
-    "Long": 43.504687,
-    "Lat": 124.82283
+    "Lat": 43.504687,
+    "Long": 124.82283
   },
   {
     "Location": "松原",
     "Translation": "Matsubara",
     "Full Location": "吉林 松原",
-    "Long": 45.141789,
-    "Lat": 124.825117
+    "Lat": 45.141789,
+    "Long": 124.825117
   },
   {
     "Location": "长春",
     "Translation": "Changchun",
     "Full Location": "吉林 长春",
-    "Long": 43.817071,
-    "Lat": 125.323544
+    "Lat": 43.817071,
+    "Long": 125.323544
   },
   {
     "Location": "待确认",
     "Translation": "to be confirmed",
     "Full Location": "吉林 待确认",
-    "Long": 43.837883,
-    "Lat": 126.549572
+    "Lat": 43.837883,
+    "Long": 126.549572
   },
   {
     "Location": "辽源",
     "Translation": "Liaoyuan",
     "Full Location": "吉林 辽源",
-    "Long": 42.887766,
-    "Lat": 125.14366
+    "Lat": 42.887766,
+    "Long": 125.14366
   },
   {
     "Location": "吉林",
     "Translation": "Jilin",
     "Full Location": "吉林",
-    "Long": 43.1520105,
-    "Lat": 126.4371385
+    "Lat": 43.1520105,
+    "Long": 126.4371385
   },
   {
     "Location": "乌鲁木齐",
     "Translation": "Urumqi",
     "Full Location": "新疆 乌鲁木齐",
-    "Long": 43.825592,
-    "Lat": 87.616848
+    "Lat": 43.825592,
+    "Long": 87.616848
   },
   {
     "Location": "第七师",
     "Translation": "Seventh division",
     "Full Location": "新疆 第七师",
-    "Long": 42.5246357,
-    "Lat": 87.5395855
+    "Lat": 42.5246357,
+    "Long": 87.5395855
   },
   {
     "Location": "第八师",
     "Translation": "Eighth Division",
     "Full Location": "新疆 第八师",
-    "Long": 42.5246357,
-    "Lat": 87.5395855
+    "Lat": 42.5246357,
+    "Long": 87.5395855
   },
   {
     "Location": "吐鲁番地区",
     "Translation": "Turpan area",
     "Full Location": "新疆 吐鲁番地区",
-    "Long": 42.951303,
-    "Lat": 89.189752
+    "Lat": 42.951303,
+    "Long": 89.189752
   },
   {
     "Location": "伊犁州",
     "Translation": "Ili",
     "Full Location": "新疆 伊犁州",
-    "Long": 43.916823,
-    "Lat": 81.324136
+    "Lat": 43.916823,
+    "Long": 81.324136
   },
   {
     "Location": "阿克苏地区",
     "Translation": "Aksu region",
     "Full Location": "新疆 阿克苏地区",
-    "Long": 41.168779,
-    "Lat": 80.260605
+    "Lat": 41.168779,
+    "Long": 80.260605
   },
   {
     "Location": "第九师",
     "Translation": "Ninth division",
     "Full Location": "新疆 第九师",
-    "Long": 46.521386,
-    "Lat": 83.617727
+    "Lat": 46.521386,
+    "Long": 83.617727
   },
   {
     "Location": "昌吉州",
     "Translation": "Changji",
     "Full Location": "新疆 昌吉州",
-    "Long": 44.011182,
-    "Lat": 87.308224
+    "Lat": 44.011182,
+    "Long": 87.308224
   },
   {
     "Location": "第六师",
     "Translation": "Sixth Division",
     "Full Location": "新疆 第六师",
-    "Long": 42.5246357,
-    "Lat": 87.5395855
+    "Lat": 42.5246357,
+    "Long": 87.5395855
   },
   {
     "Location": "新疆",
     "Translation": "Xinjiang",
     "Full Location": "新疆",
-    "Long": 37.499972,
-    "Lat": 105.196902
+    "Lat": 37.499972,
+    "Long": 105.196902
   },
   {
     "Location": "中卫",
     "Translation": "Zhongwei",
     "Full Location": "宁夏 中卫",
-    "Long": 37.99746,
-    "Lat": 106.198393
+    "Lat": 37.99746,
+    "Long": 106.198393
   },
   {
     "Location": "吴忠",
     "Translation": "Wu Zhong",
     "Full Location": "宁夏 吴忠",
-    "Long": 38.487193,
-    "Lat": 106.230908
+    "Lat": 38.487193,
+    "Long": 106.230908
   },
   {
     "Location": "银川",
     "Translation": "Yinchuan",
     "Full Location": "宁夏 银川",
-    "Long": 38.463887,
-    "Lat": 106.287421
+    "Lat": 38.463887,
+    "Long": 106.287421
   },
   {
     "Location": "宁东管委会",
     "Translation": "Ningdong Management Committee",
     "Full Location": "宁夏 宁东管委会",
-    "Long": 36.015855,
-    "Lat": 106.24261
+    "Lat": 36.015855,
+    "Long": 106.24261
   },
   {
     "Location": "固原",
     "Translation": "Guyuan",
     "Full Location": "宁夏 固原",
-    "Long": 38.983236,
-    "Lat": 106.383303
+    "Lat": 38.983236,
+    "Long": 106.383303
   },
   {
     "Location": "石嘴山",
     "Translation": "Shizuishan",
     "Full Location": "宁夏 石嘴山",
-    "Long": 37.198731,
-    "Lat": 106.1580937
+    "Lat": 37.198731,
+    "Long": 106.1580937
   },
   {
     "Location": "宁夏",
     "Translation": "Ningxia",
     "Full Location": "宁夏",
-    "Long": 43.933454,
-    "Lat": 116.0482221
+    "Lat": 43.933454,
+    "Long": 116.0482221
   },
   {
     "Location": "锡林郭勒",
     "Translation": "Xilinguole",
     "Full Location": "内蒙古 锡林郭勒",
-    "Long": 40.657978,
-    "Lat": 109.840313
+    "Lat": 40.657978,
+    "Long": 109.840313
   },
   {
     "Location": "包头",
     "Translation": "Baotou",
     "Full Location": "内蒙古 包头",
-    "Long": 49.211742,
-    "Lat": 119.765607
+    "Lat": 49.211742,
+    "Long": 119.765607
   },
   {
     "Location": "呼伦贝尔",
     "Translation": "Hulunbuir",
     "Full Location": "内蒙古 呼伦贝尔",
-    "Long": 40.842356,
-    "Lat": 111.749995
+    "Lat": 40.842356,
+    "Long": 111.749995
   },
   {
     "Location": "呼和浩特",
     "Translation": "Hohhot",
     "Full Location": "内蒙古 呼和浩特",
-    "Long": 46.082462,
-    "Lat": 122.037657
+    "Lat": 46.082462,
+    "Long": 122.037657
   },
   {
     "Location": "兴安盟",
     "Translation": "Xing'an League",
     "Full Location": "内蒙古 兴安盟",
-    "Long": 40.743213,
-    "Lat": 107.387657
+    "Lat": 40.743213,
+    "Long": 107.387657
   },
   {
     "Location": "巴彦淖尔",
     "Translation": "Bayannur",
     "Full Location": "内蒙古 巴彦淖尔",
-    "Long": 42.25785,
-    "Lat": 118.886931
+    "Lat": 42.25785,
+    "Long": 118.886931
   },
   {
     "Location": "赤峰",
     "Translation": "Chifeng",
     "Full Location": "内蒙古 赤峰",
-    "Long": 43.65289,
-    "Lat": 122.243444
+    "Lat": 43.65289,
+    "Long": 122.243444
   },
   {
     "Location": "通辽",
     "Translation": "Tongliao",
     "Full Location": "内蒙古 通辽",
-    "Long": 39.608266,
-    "Lat": 109.781327
+    "Lat": 39.608266,
+    "Long": 109.781327
   },
   {
     "Location": "鄂尔多斯",
     "Translation": "Ordos",
     "Full Location": "内蒙古 鄂尔多斯",
-    "Long": 40.994785,
-    "Lat": 113.132585
+    "Lat": 40.994785,
+    "Long": 113.132585
   },
   {
     "Location": "乌兰察布",
     "Translation": "Ulanchabu",
     "Full Location": "内蒙古 乌兰察布",
-    "Long": 39.655248,
-    "Lat": 106.794216
+    "Lat": 39.655248,
+    "Long": 106.794216
   },
   {
     "Location": "乌海",
     "Translation": "Wuhai",
     "Full Location": "内蒙古 乌海",
-    "Long": 43.37822,
-    "Lat": 115.0594815
+    "Lat": 43.37822,
+    "Long": 115.0594815
   },
   {
     "Location": "内蒙古",
     "Translation": "Inner Mongolia",
     "Full Location": "内蒙古",
-    "Long": 35.543061,
-    "Lat": 106.665131
+    "Lat": 35.543061,
+    "Long": 106.665131
   },
   {
     "Location": "平凉",
     "Translation": "Pingliang",
     "Full Location": "甘肃 平凉",
-    "Long": 38.520089,
-    "Lat": 102.188043
+    "Lat": 38.520089,
+    "Long": 102.188043
   },
   {
     "Location": "金昌",
     "Translation": "Jinchang",
     "Full Location": "甘肃 金昌",
-    "Long": 34.580885,
-    "Lat": 105.72498
+    "Lat": 34.580885,
+    "Long": 105.72498
   },
   {
     "Location": "天水",
     "Translation": "Tianshui",
     "Full Location": "甘肃 天水",
-    "Long": 38.925875,
-    "Lat": 100.449818
+    "Lat": 38.925875,
+    "Long": 100.449818
   },
   {
     "Location": "张掖",
     "Translation": "Zhang Ye",
     "Full Location": "甘肃 张掖",
-    "Long": 33.400684,
-    "Lat": 104.921841
+    "Lat": 33.400684,
+    "Long": 104.921841
   },
   {
     "Location": "陇南",
     "Translation": "Longnan",
     "Full Location": "甘肃 陇南",
-    "Long": 36.545015,
-    "Lat": 104.138586
+    "Lat": 36.545015,
+    "Long": 104.138586
   },
   {
     "Location": "白银",
     "Translation": "Baiyin",
     "Full Location": "甘肃 白银",
-    "Long": 35.5872118,
-    "Lat": 104.626282
+    "Lat": 35.5872118,
+    "Long": 104.626282
   },
   {
     "Location": "临夏州",
     "Translation": "Linxia",
     "Full Location": "甘肃 临夏州",
-    "Long": 36.061089,
-    "Lat": 103.834303
+    "Lat": 36.061089,
+    "Long": 103.834303
   },
   {
     "Location": "兰州",
     "Translation": "Lanzhou",
     "Full Location": "甘肃 兰州",
-    "Long": 35.580662,
-    "Lat": 104.626282
+    "Lat": 35.580662,
+    "Long": 104.626282
   },
   {
     "Location": "定西",
     "Translation": "Dingxi",
     "Full Location": "甘肃 定西",
-    "Long": 34.983385,
-    "Lat": 102.911027
+    "Lat": 34.983385,
+    "Long": 102.911027
   },
   {
     "Location": "甘南州",
     "Translation": "Gannan",
     "Full Location": "甘肃 甘南州",
-    "Long": 35.709077,
-    "Lat": 107.643631
+    "Lat": 35.709077,
+    "Long": 107.643631
   },
   {
     "Location": "庆阳",
     "Translation": "Qingyang",
     "Full Location": "甘肃 庆阳",
-    "Long": 35.7518326,
-    "Lat": 104.2861116
+    "Lat": 35.7518326,
+    "Long": 104.2861116
   },
   {
     "Location": "待确认",
     "Translation": "to be confirmed",
     "Full Location": "甘肃 待确认",
-    "Long": 35.7518326,
-    "Lat": 104.2861116
+    "Lat": 35.7518326,
+    "Long": 104.2861116
   },
   {
     "Location": "甘肃",
     "Translation": "Gansu",
     "Full Location": "甘肃",
-    "Long": 39.167345,
-    "Lat": 117.151533
+    "Lat": 39.167345,
+    "Long": 117.151533
   },
   {
     "Location": "红桥区",
     "Translation": "Hongqiao District",
     "Full Location": "天津 红桥区",
-    "Long": 39.116949,
-    "Lat": 117.21451
+    "Lat": 39.116949,
+    "Long": 117.21451
   },
   {
     "Location": "和平区",
     "Translation": "Heping District",
     "Full Location": "天津 和平区",
-    "Long": 39.00366,
-    "Lat": 117.710496
+    "Lat": 39.00366,
+    "Long": 117.710496
   },
   {
     "Location": "滨海新区",
     "Translation": "Binhai New Area",
     "Full Location": "天津 滨海新区",
-    "Long": 39.141152,
-    "Lat": 117.008826
+    "Lat": 39.141152,
+    "Long": 117.008826
   },
   {
     "Location": "西青区",
     "Translation": "Xiqing District",
     "Full Location": "天津 西青区",
-    "Long": 39.138202,
-    "Lat": 117.150738
+    "Lat": 39.138202,
+    "Long": 117.150738
   },
   {
     "Location": "南开区",
     "Translation": "Nankai District",
     "Full Location": "天津 南开区",
-    "Long": 39.128291,
-    "Lat": 117.251586
+    "Lat": 39.128291,
+    "Long": 117.251586
   },
   {
     "Location": "河东区",
     "Translation": "Hedong District",
     "Full Location": "天津 河东区",
-    "Long": 39.147869,
-    "Lat": 117.196648
+    "Lat": 39.147869,
+    "Long": 117.196648
   },
   {
     "Location": "河北区",
     "Translation": "Hebei District",
     "Full Location": "天津 河北区",
-    "Long": 39.109563,
-    "Lat": 117.223371
+    "Lat": 39.109563,
+    "Long": 117.223371
   },
   {
     "Location": "河西区",
     "Translation": "Hexi District",
     "Full Location": "天津 河西区",
-    "Long": 39.3433574,
-    "Lat": 117.3616476
+    "Lat": 39.3433574,
+    "Long": 117.3616476
   },
   {
     "Location": "外地来津人员",
     "Translation": "Foreign visitors",
     "Full Location": "天津 外地来津人员",
-    "Long": 39.330087,
-    "Lat": 117.826724
+    "Lat": 39.330087,
+    "Long": 117.826724
   },
   {
     "Location": "宁河区",
     "Translation": "Ninghe District",
     "Full Location": "天津 宁河区",
-    "Long": 39.717379,
-    "Lat": 117.309863
+    "Lat": 39.717379,
+    "Long": 117.309863
   },
   {
     "Location": "宝坻区",
     "Translation": "Baodi District",
     "Full Location": "天津 宝坻区",
-    "Long": 39.086569,
-    "Lat": 117.314323
+    "Lat": 39.086569,
+    "Long": 117.314323
   },
   {
     "Location": "东丽区",
     "Translation": "Dongli District",
     "Full Location": "天津 东丽区",
-    "Long": 39.086569,
-    "Lat": 117.314323
+    "Lat": 39.086569,
+    "Long": 117.314323
   },
   {
     "Location": "津南区",
     "Translation": "Jinnan District",
     "Full Location": "天津 津南区",
-    "Long": 38.937928,
-    "Lat": 117.35726
+    "Lat": 38.937928,
+    "Long": 117.35726
   },
   {
     "Location": "待确认",
     "Translation": "to be confirmed",
     "Full Location": "天津 待确认",
-    "Long": 39.3433574,
-    "Lat": 117.3616476
+    "Lat": 39.3433574,
+    "Long": 117.3616476
   },
   {
     "Location": "天津",
     "Translation": "Tianjin",
     "Full Location": "天津",
-    "Long": 39.3433574,
-    "Lat": 117.3616476
+    "Lat": 39.3433574,
+    "Long": 117.3616476
   },
   {
     "Location": "朔州",
     "Translation": "Shuozhou",
     "Full Location": "山西 朔州",
-    "Long": 39.331595,
-    "Lat": 112.432825
+    "Lat": 39.331595,
+    "Long": 112.432825
   },
   {
     "Location": "晋中",
     "Translation": "Jinzhong",
     "Full Location": "山西 晋中",
-    "Long": 37.687357,
-    "Lat": 112.752652
+    "Lat": 37.687357,
+    "Long": 112.752652
   },
   {
     "Location": "运城",
     "Translation": "Yuncheng",
     "Full Location": "山西 运城",
-    "Long": 35.026516,
-    "Lat": 111.00746
+    "Lat": 35.026516,
+    "Long": 111.00746
   },
   {
     "Location": "阳泉",
     "Translation": "Yangquan",
     "Full Location": "山西 阳泉",
-    "Long": 37.856971,
-    "Lat": 113.580519
+    "Lat": 37.856971,
+    "Long": 113.580519
   },
   {
     "Location": "吕梁",
     "Translation": "Lu Liang",
     "Full Location": "山西 吕梁",
-    "Long": 37.518314,
-    "Lat": 111.144319
+    "Lat": 37.518314,
+    "Long": 111.144319
   },
   {
     "Location": "大同",
     "Translation": "Datong",
     "Full Location": "山西 大同",
-    "Long": 40.076762,
-    "Lat": 113.300129
+    "Lat": 40.076762,
+    "Long": 113.300129
   },
   {
     "Location": "长治",
     "Translation": "Changzhi",
     "Full Location": "山西 长治",
-    "Long": 36.195409,
-    "Lat": 113.116404
+    "Lat": 36.195409,
+    "Long": 113.116404
   },
   {
     "Location": "临汾",
     "Translation": "Linfen",
     "Full Location": "山西 临汾",
-    "Long": 36.088005,
-    "Lat": 111.518975
+    "Lat": 36.088005,
+    "Long": 111.518975
   },
   {
     "Location": "太原",
     "Translation": "Taiyuan",
     "Full Location": "山西 太原",
-    "Long": 37.87059,
-    "Lat": 112.548879
+    "Lat": 37.87059,
+    "Long": 112.548879
   },
   {
     "Location": "晋城",
     "Translation": "Jincheng",
     "Full Location": "山西 晋城",
-    "Long": 35.490701,
-    "Lat": 112.851831
+    "Lat": 35.490701,
+    "Long": 112.851831
   },
   {
     "Location": "忻州",
     "Translation": "Xinzhou",
     "Full Location": "山西 忻州",
-    "Long": 38.416663,
-    "Lat": 112.734174
+    "Lat": 38.416663,
+    "Long": 112.734174
   },
   {
     "Location": "山西",
     "Translation": "Shanxi",
     "Full Location": "山西",
-    "Long": 37.2425649,
-    "Lat": 111.8568586
+    "Lat": 37.2425649,
+    "Long": 111.8568586
   },
   {
     "Location": "朝阳",
     "Translation": "Chaoyang",
     "Full Location": "辽宁 朝阳",
-    "Long": 41.57365,
-    "Lat": 120.4493879
+    "Lat": 41.57365,
+    "Long": 120.4493879
   },
   {
     "Location": "铁岭",
     "Translation": "Tieling",
     "Full Location": "辽宁 铁岭",
-    "Long": 42.223828,
-    "Lat": 123.726035
+    "Lat": 42.223828,
+    "Long": 123.726035
   },
   {
     "Location": "葫芦岛",
     "Translation": "Huludao",
     "Full Location": "辽宁 葫芦岛",
-    "Long": 40.71104,
-    "Lat": 120.83694
+    "Lat": 40.71104,
+    "Long": 120.83694
   },
   {
     "Location": "锦州",
     "Translation": "Jinzhou",
     "Full Location": "辽宁 锦州",
-    "Long": 41.095685,
-    "Lat": 121.1268459
+    "Lat": 41.095685,
+    "Long": 121.1268459
   },
   {
     "Location": "大连",
     "Translation": "Dalian",
     "Full Location": "辽宁 大连",
-    "Long": 38.914003,
-    "Lat": 121.614682
+    "Lat": 38.914003,
+    "Long": 121.614682
   },
   {
     "Location": "营口",
     "Translation": "Yingkou",
     "Full Location": "辽宁 营口",
-    "Long": 40.667433,
-    "Lat": 122.235084
+    "Lat": 40.667433,
+    "Long": 122.235084
   },
   {
     "Location": "丹东",
     "Translation": "Dandong",
     "Full Location": "辽宁 丹东",
-    "Long": 40.000787,
-    "Lat": 124.35445
+    "Lat": 40.000787,
+    "Long": 124.35445
   },
   {
     "Location": "沈阳",
     "Translation": "Shenyang",
     "Full Location": "辽宁 沈阳",
-    "Long": 41.805699,
-    "Lat": 123.431472
+    "Lat": 41.805699,
+    "Long": 123.431472
   },
   {
     "Location": "辽阳",
     "Translation": "Liaoyang",
     "Full Location": "辽宁 辽阳",
-    "Long": 41.267244,
-    "Lat": 123.236944
+    "Lat": 41.267244,
+    "Long": 123.236944
   },
   {
     "Location": "盘锦",
     "Translation": "Panjin",
     "Full Location": "辽宁 盘锦",
-    "Long": 41.119997,
-    "Lat": 122.070714
+    "Lat": 41.119997,
+    "Long": 122.070714
   },
   {
     "Location": "本溪",
     "Translation": "Benxi",
     "Full Location": "辽宁 本溪",
-    "Long": 41.486981,
-    "Lat": 123.685142
+    "Lat": 41.486981,
+    "Long": 123.685142
   },
   {
     "Location": "鞍山",
     "Translation": "Anshan",
     "Full Location": "辽宁 鞍山",
-    "Long": 41.108647,
-    "Lat": 122.994329
+    "Lat": 41.108647,
+    "Long": 122.994329
   },
   {
     "Location": "阜新",
     "Translation": "Fuxin",
     "Full Location": "辽宁 阜新",
-    "Long": 42.021602,
-    "Lat": 121.670273
+    "Lat": 42.021602,
+    "Long": 121.670273
   },
   {
     "Location": "辽宁",
     "Translation": "Liaoning",
     "Full Location": "辽宁",
-    "Long": 41.9436543,
-    "Lat": 122.5290376
+    "Lat": 41.9436543,
+    "Long": 122.5290376
   },
   {
     "Location": "鹤岗",
     "Translation": "Hegang",
     "Full Location": "黑龙江 鹤岗",
-    "Long": 47.349916,
-    "Lat": 130.297964
+    "Lat": 47.349916,
+    "Long": 130.297964
   },
   {
     "Location": "七台河",
     "Translation": "Qitaihe",
     "Full Location": "黑龙江 七台河",
-    "Long": 45.771726,
-    "Lat": 131.0031381
+    "Lat": 45.771726,
+    "Long": 131.0031381
   },
   {
     "Location": "大兴安岭地区",
     "Translation": "Daxinganling area",
     "Full Location": "黑龙江 大兴安岭地区",
-    "Long": 52.335262,
-    "Lat": 124.711526
+    "Lat": 52.335262,
+    "Long": 124.711526
   },
   {
     "Location": "佳木斯",
     "Translation": "Jiamusi",
     "Full Location": "黑龙江 佳木斯",
-    "Long": 46.799777,
-    "Lat": 130.3188779
+    "Lat": 46.799777,
+    "Long": 130.3188779
   },
   {
     "Location": "牡丹江",
     "Translation": "Mudanjiang",
     "Full Location": "黑龙江 牡丹江",
-    "Long": 44.551653,
-    "Lat": 129.633168
+    "Lat": 44.551653,
+    "Long": 129.633168
   },
   {
     "Location": "鸡西",
     "Translation": "Jixi",
     "Full Location": "黑龙江 鸡西",
-    "Long": 45.295075,
-    "Lat": 130.969333
+    "Lat": 45.295075,
+    "Long": 130.969333
   },
   {
     "Location": "绥化",
     "Translation": "Suihua",
     "Full Location": "黑龙江 绥化",
-    "Long": 46.653845,
-    "Lat": 126.968887
+    "Lat": 46.653845,
+    "Long": 126.968887
   },
   {
     "Location": "齐齐哈尔",
     "Translation": "Qiqihar",
     "Full Location": "黑龙江 齐齐哈尔",
-    "Long": 47.354348,
-    "Lat": 123.918186
+    "Lat": 47.354348,
+    "Long": 123.918186
   },
   {
     "Location": "双鸭山",
     "Translation": "Shuangyashan",
     "Full Location": "黑龙江 双鸭山",
-    "Long": 46.646508,
-    "Lat": 131.159133
+    "Lat": 46.646508,
+    "Long": 131.159133
   },
   {
     "Location": "哈尔滨",
     "Translation": "Harbin",
     "Full Location": "黑龙江 哈尔滨",
-    "Long": 45.803775,
-    "Lat": 126.534967
+    "Lat": 45.803775,
+    "Long": 126.534967
   },
   {
     "Location": "大庆",
     "Translation": "Daqing",
     "Full Location": "黑龙江 大庆",
-    "Long": 46.589309,
-    "Lat": 125.103784
+    "Lat": 46.589309,
+    "Long": 125.103784
   },
   {
     "Location": "黑河",
     "Translation": "Heihe",
     "Full Location": "黑龙江 黑河",
-    "Long": 50.245129,
-    "Lat": 127.528293
+    "Lat": 50.245129,
+    "Long": 127.528293
   },
   {
     "Location": "黑龙江",
     "Translation": "Heilongjiang",
     "Full Location": "黑龙江",
-    "Long": 47.1216472,
-    "Lat": 128.738231
+    "Lat": 47.1216472,
+    "Long": 128.738231
   },
   {
     "Location": "陵水黎族自治县",
     "Translation": "Lingshui Li Autonomous County",
     "Full Location": "海南 陵水黎族自治县",
-    "Long": 18.506048,
-    "Lat": 110.037503
+    "Lat": 18.506048,
+    "Long": 110.037503
   },
   {
     "Location": "琼中黎族苗族自治县",
     "Translation": "Qiongzhongli and Miao Autonomous County",
     "Full Location": "海南 琼中黎族苗族自治县",
-    "Long": 19.033369,
-    "Lat": 109.838389
+    "Lat": 19.033369,
+    "Long": 109.838389
   },
   {
     "Location": "琼海",
     "Translation": "Qionghai",
     "Full Location": "海南 琼海",
-    "Long": 19.258341,
-    "Lat": 110.474648
+    "Lat": 19.258341,
+    "Long": 110.474648
   },
   {
     "Location": "儋州",
     "Translation": "Luzhou",
     "Full Location": "海南 儋州",
-    "Long": 19.521134,
-    "Lat": 109.580811
+    "Lat": 19.521134,
+    "Long": 109.580811
   },
   {
     "Location": "万宁",
     "Translation": "Wanning",
     "Full Location": "海南 万宁",
-    "Long": 18.795143,
-    "Lat": 110.391073
+    "Lat": 18.795143,
+    "Long": 110.391073
   },
   {
     "Location": "东方",
     "Translation": "East",
     "Full Location": "海南 东方",
-    "Long": 19.09535,
-    "Lat": 108.651815
+    "Lat": 19.09535,
+    "Long": 108.651815
   },
   {
     "Location": "临高",
     "Translation": "Lingao",
     "Full Location": "海南 临高",
-    "Long": 19.912025,
-    "Lat": 109.690508
+    "Lat": 19.912025,
+    "Long": 109.690508
   },
   {
     "Location": "海口",
     "Translation": "Haikou",
     "Full Location": "海南 海口",
-    "Long": 20.044412,
-    "Lat": 110.198286
+    "Lat": 20.044412,
+    "Long": 110.198286
   },
   {
     "Location": "澄迈",
     "Translation": "Chengmai",
     "Full Location": "海南 澄迈",
-    "Long": 19.738521,
-    "Lat": 110.006755
+    "Lat": 19.738521,
+    "Long": 110.006755
   },
   {
     "Location": "三亚",
     "Translation": "Sanya",
     "Full Location": "海南 三亚",
-    "Long": 18.252847,
-    "Lat": 109.511909
+    "Lat": 18.252847,
+    "Long": 109.511909
   },
   {
     "Location": "昌江",
     "Translation": "Changjiang",
     "Full Location": "海南 昌江",
-    "Long": 19.298184,
-    "Lat": 109.055739
+    "Lat": 19.298184,
+    "Long": 109.055739
   },
   {
     "Location": "定安",
     "Translation": "Ding'an",
     "Full Location": "海南 定安",
-    "Long": 19.681434,
-    "Lat": 110.35889
+    "Lat": 19.681434,
+    "Long": 110.35889
   },
   {
     "Location": "乐东",
     "Translation": "Ledong",
     "Full Location": "海南 乐东",
-    "Long": 18.750259,
-    "Lat": 109.173054
+    "Lat": 18.750259,
+    "Long": 109.173054
   },
   {
     "Location": "文昌",
     "Translation": "Wenchang",
     "Full Location": "海南 文昌",
-    "Long": 19.543278,
-    "Lat": 110.797759
+    "Lat": 19.543278,
+    "Long": 110.797759
   },
   {
     "Location": "海南",
     "Translation": "Hainan",
     "Full Location": "海南",
-    "Long": 19.5663947,
-    "Lat": 109.949686
+    "Lat": 19.5663947,
+    "Long": 109.949686
   },
   {
     "Location": "张家口",
     "Translation": "Zhangjiakou",
     "Full Location": "河北 张家口",
-    "Long": 40.767544,
-    "Lat": 114.886335
+    "Lat": 40.767544,
+    "Long": 114.886335
   },
   {
     "Location": "保定",
     "Translation": "Baoding",
     "Full Location": "河北 保定",
-    "Long": 38.874434,
-    "Lat": 115.464589
+    "Lat": 38.874434,
+    "Long": 115.464589
   },
   {
     "Location": "邢台",
     "Translation": "Xingtai",
     "Full Location": "河北 邢台",
-    "Long": 37.070834,
-    "Lat": 114.504677
+    "Lat": 37.070834,
+    "Long": 114.504677
   },
   {
     "Location": "沧州",
     "Translation": "Cangzhou",
     "Full Location": "河北 沧州",
-    "Long": 38.304477,
-    "Lat": 116.838834
+    "Lat": 38.304477,
+    "Long": 116.838834
   },
   {
     "Location": "石家庄",
     "Translation": "Shijiazhuang",
     "Full Location": "河北 石家庄",
-    "Long": 38.042805,
-    "Lat": 114.514893
+    "Lat": 38.042805,
+    "Long": 114.514893
   },
   {
     "Location": "承德",
     "Translation": "Chengde",
     "Full Location": "河北 承德",
-    "Long": 40.952942,
-    "Lat": 117.96275
+    "Lat": 40.952942,
+    "Long": 117.96275
   },
   {
     "Location": "廊坊",
     "Translation": "Langfang",
     "Full Location": "河北 廊坊",
-    "Long": 39.538047,
-    "Lat": 116.683752
+    "Lat": 39.538047,
+    "Long": 116.683752
   },
   {
     "Location": "邯郸",
     "Translation": "Handan",
     "Full Location": "河北 邯郸",
-    "Long": 36.625656,
-    "Lat": 114.538961
+    "Lat": 36.625656,
+    "Long": 114.538961
   },
   {
     "Location": "衡水",
     "Translation": "Hengshui",
     "Full Location": "河北 衡水",
-    "Long": 37.73892,
-    "Lat": 115.670177
+    "Lat": 37.73892,
+    "Long": 115.670177
   },
   {
     "Location": "唐山",
     "Translation": "Tangshan",
     "Full Location": "河北 唐山",
-    "Long": 39.630867,
-    "Lat": 118.180193
+    "Lat": 39.630867,
+    "Long": 118.180193
   },
   {
     "Location": "秦皇岛",
     "Translation": "Qinhuangdao",
     "Full Location": "河北 秦皇岛",
-    "Long": 39.935361,
-    "Lat": 119.600523
+    "Lat": 39.935361,
+    "Long": 119.600523
   },
   {
     "Location": "河北",
     "Translation": "Hebei",
     "Full Location": "河北",
-    "Long": 37.8956594,
-    "Lat": 114.9042208
+    "Lat": 37.8956594,
+    "Long": 114.9042208
   },
   {
     "Location": "榆林",
     "Translation": "Yulin",
     "Full Location": "陕西 榆林",
-    "Long": 38.28539,
-    "Lat": 109.734589
+    "Lat": 38.28539,
+    "Long": 109.734589
   },
   {
     "Location": "西安",
     "Translation": "Xi'an",
     "Full Location": "陕西 西安",
-    "Long": 34.341574,
-    "Lat": 108.93977
+    "Lat": 34.341574,
+    "Long": 108.93977
   },
   {
     "Location": "咸阳",
     "Translation": "Xianyang",
     "Full Location": "陕西 咸阳",
-    "Long": 34.329605,
-    "Lat": 108.708991
+    "Lat": 34.329605,
+    "Long": 108.708991
   },
   {
     "Location": "商洛",
     "Translation": "Shangluo",
     "Full Location": "陕西 商洛",
-    "Long": 33.870422,
-    "Lat": 109.940477
+    "Lat": 33.870422,
+    "Long": 109.940477
   },
   {
     "Location": "安康",
     "Translation": "Ankang",
     "Full Location": "陕西 安康",
-    "Long": 32.684714,
-    "Lat": 109.029022
+    "Lat": 32.684714,
+    "Long": 109.029022
   },
   {
     "Location": "延安",
     "Translation": "Yan'an",
     "Full Location": "陕西 延安",
-    "Long": 36.585445,
-    "Lat": 109.489757
+    "Lat": 36.585445,
+    "Long": 109.489757
   },
   {
     "Location": "韩城",
     "Translation": "Hancheng",
     "Full Location": "陕西 韩城",
-    "Long": 35.476788,
-    "Lat": 110.442846
+    "Lat": 35.476788,
+    "Long": 110.442846
   },
   {
     "Location": "汉中",
     "Translation": "Hanzhong",
     "Full Location": "陕西 汉中",
-    "Long": 33.06748,
-    "Lat": 107.023323
+    "Lat": 33.06748,
+    "Long": 107.023323
   },
   {
     "Location": "宝鸡",
     "Translation": "Baoji",
     "Full Location": "陕西 宝鸡",
-    "Long": 34.363184,
-    "Lat": 107.237743
+    "Lat": 34.363184,
+    "Long": 107.237743
   },
   {
     "Location": "渭南",
     "Translation": "Weinan",
     "Full Location": "陕西 渭南",
-    "Long": 34.49938,
-    "Lat": 109.502882
+    "Lat": 34.49938,
+    "Long": 109.502882
   },
   {
     "Location": "铜川",
     "Translation": "Tongchuan",
     "Full Location": "陕西 铜川",
-    "Long": 34.897887,
-    "Lat": 108.945019
+    "Lat": 34.897887,
+    "Long": 108.945019
   },
   {
     "Location": "待确认",
     "Translation": "to be confirmed",
     "Full Location": "陕西 待确认",
-    "Long": 35.3939908,
-    "Lat": 109.1880047
+    "Lat": 35.3939908,
+    "Long": 109.1880047
   },
   {
     "Location": "杨凌示范区",
     "Translation": "Yangling Demonstration Area",
     "Full Location": "陕西 杨凌示范区",
-    "Long": 34.272117,
-    "Lat": 108.084731
+    "Lat": 34.272117,
+    "Long": 108.084731
   },
   {
     "Location": "陕西",
     "Translation": "Shaanxi",
     "Full Location": "陕西",
-    "Long": 35.3939908,
-    "Lat": 109.1880047
+    "Lat": 35.3939908,
+    "Long": 109.1880047
   },
   {
     "Location": "丽江",
     "Translation": "Lijiang",
     "Full Location": "云南 丽江",
-    "Long": 26.855047,
-    "Lat": 100.22775
+    "Lat": 26.855047,
+    "Long": 100.22775
   },
   {
     "Location": "红河州",
     "Translation": "Red River State",
     "Full Location": "云南 红河州",
-    "Long": 23.36225,
-    "Lat": 103.374576
+    "Lat": 23.36225,
+    "Long": 103.374576
   },
   {
     "Location": "大理州",
     "Translation": "Dali Prefecture",
     "Full Location": "云南 大理州",
-    "Long": 25.581991,
-    "Lat": 100.217721
+    "Lat": 25.581991,
+    "Long": 100.217721
   },
   {
     "Location": "保山",
     "Translation": "Baoshan",
     "Full Location": "云南 保山",
-    "Long": 25.112046,
-    "Lat": 99.161761
+    "Lat": 25.112046,
+    "Long": 99.161761
   },
   {
     "Location": "昭通",
     "Translation": "Zhaotong",
     "Full Location": "云南 昭通",
-    "Long": 27.338257,
-    "Lat": 103.717465
+    "Lat": 27.338257,
+    "Long": 103.717465
   },
   {
     "Location": "德宏州",
     "Translation": "Dehong",
     "Full Location": "云南 德宏州",
-    "Long": 24.433353,
-    "Lat": 98.584895
+    "Lat": 24.433353,
+    "Long": 98.584895
   },
   {
     "Location": "曲靖",
     "Translation": "Qu Jing",
     "Full Location": "云南 曲靖",
-    "Long": 25.489999,
-    "Lat": 103.796167
+    "Lat": 25.489999,
+    "Long": 103.796167
   },
   {
     "Location": "西双版纳傣族自治州",
     "Translation": "Xishuangbanna Dai Autonomous Prefecture",
     "Full Location": "云南 西双版纳傣族自治州",
-    "Long": 22.00881,
-    "Lat": 100.79715
+    "Lat": 22.00881,
+    "Long": 100.79715
   },
   {
     "Location": "玉溪",
     "Translation": "Yuxi",
     "Full Location": "云南 玉溪",
-    "Long": 24.347324,
-    "Lat": 102.527197
+    "Lat": 24.347324,
+    "Long": 102.527197
   },
   {
     "Location": "普洱",
     "Translation": "Pu'er",
     "Full Location": "云南 普洱",
-    "Long": 22.825065,
-    "Lat": 100.966512
+    "Lat": 22.825065,
+    "Long": 100.966512
   },
   {
     "Location": "昆明",
     "Translation": "Kunming",
     "Full Location": "云南 昆明",
-    "Long": 24.880095,
-    "Lat": 102.832891
+    "Lat": 24.880095,
+    "Long": 102.832891
   },
   {
     "Location": "临沧",
     "Translation": "Lincang",
     "Full Location": "云南 临沧",
-    "Long": 23.884154,
-    "Lat": 100.088824
+    "Lat": 23.884154,
+    "Long": 100.088824
   },
   {
     "Location": "楚雄州",
     "Translation": "Chuxiong Prefecture",
     "Full Location": "云南 楚雄州",
-    "Long": 25.045532,
-    "Lat": 101.528068
+    "Lat": 25.045532,
+    "Long": 101.528068
   },
   {
     "Location": "文山州",
     "Translation": "Wenshan Prefecture",
     "Full Location": "云南 文山州",
-    "Long": 23.400733,
-    "Lat": 104.216248
+    "Lat": 23.400733,
+    "Long": 104.216248
   },
   {
     "Location": "云南",
     "Translation": "Yunnan",
     "Full Location": "云南",
-    "Long": 24.4752847,
-    "Lat": 101.3431058
+    "Lat": 24.4752847,
+    "Long": 101.3431058
   },
   {
     "Location": "桂林",
     "Translation": "Guilin",
     "Full Location": "广西 桂林",
-    "Long": 25.234479,
-    "Lat": 110.179953
+    "Lat": 25.234479,
+    "Long": 110.179953
   },
   {
     "Location": "河池",
     "Translation": "Hechi",
     "Full Location": "广西 河池",
-    "Long": 24.692931,
-    "Lat": 108.085261
+    "Lat": 24.692931,
+    "Long": 108.085261
   },
   {
     "Location": "南宁",
     "Translation": "Nanning",
     "Full Location": "广西 南宁",
-    "Long": 22.817002,
-    "Lat": 108.366543
+    "Lat": 22.817002,
+    "Long": 108.366543
   },
   {
     "Location": "防城港",
     "Translation": "Fangchenggang",
     "Full Location": "广西 防城港",
-    "Long": 21.68686,
-    "Lat": 108.353846
+    "Lat": 21.68686,
+    "Long": 108.353846
   },
   {
     "Location": "贺州",
     "Translation": "Hezhou",
     "Full Location": "广西 贺州",
-    "Long": 24.403582,
-    "Lat": 111.566694
+    "Lat": 24.403582,
+    "Long": 111.566694
   },
   {
     "Location": "柳州",
     "Translation": "Liuzhou",
     "Full Location": "广西 柳州",
-    "Long": 24.326292,
-    "Lat": 109.428608
+    "Lat": 24.326292,
+    "Long": 109.428608
   },
   {
     "Location": "玉林",
     "Translation": "Yulin",
     "Full Location": "广西 玉林",
-    "Long": 22.654032,
-    "Lat": 110.18122
+    "Lat": 22.654032,
+    "Long": 110.18122
   },
   {
     "Location": "北海",
     "Translation": "North Sea",
     "Full Location": "广西 北海",
-    "Long": 21.481291,
-    "Lat": 109.120161
+    "Lat": 21.481291,
+    "Long": 109.120161
   },
   {
     "Location": "钦州",
     "Translation": "Qinzhou",
     "Full Location": "广西 钦州",
-    "Long": 21.979933,
-    "Lat": 108.654146
+    "Lat": 21.979933,
+    "Long": 108.654146
   },
   {
     "Location": "梧州",
     "Translation": "Wuzhou",
     "Full Location": "广西 梧州",
-    "Long": 23.476962,
-    "Lat": 111.279115
+    "Lat": 23.476962,
+    "Long": 111.279115
   },
   {
     "Location": "百色",
     "Translation": "Baise",
     "Full Location": "广西 百色",
-    "Long": 23.902479,
-    "Lat": 106.618283
+    "Lat": 23.902479,
+    "Long": 106.618283
   },
   {
     "Location": "贵港",
     "Translation": "Guigang",
     "Full Location": "广西 贵港",
-    "Long": 23.11153,
-    "Lat": 109.598926
+    "Lat": 23.11153,
+    "Long": 109.598926
   },
   {
     "Location": "广西",
     "Translation": "Guangxi",
     "Full Location": "广西",
-    "Long": 23.7247599,
-    "Lat": 108.8076195
+    "Lat": 23.7247599,
+    "Long": 108.8076195
   },
   {
     "Location": "厦门",
     "Translation": "Xiamen",
     "Full Location": "福建 厦门",
-    "Long": 24.479833,
-    "Lat": 118.089425
+    "Lat": 24.479833,
+    "Long": 118.089425
   },
   {
     "Location": "南平",
     "Translation": "Nanping",
     "Full Location": "福建 南平",
-    "Long": 26.641774,
-    "Lat": 118.17771
+    "Lat": 26.641774,
+    "Long": 118.17771
   },
   {
     "Location": "莆田",
     "Translation": "Putian",
     "Full Location": "福建 莆田",
-    "Long": 25.454084,
-    "Lat": 119.007777
+    "Lat": 25.454084,
+    "Long": 119.007777
   },
   {
     "Location": "泉州",
     "Translation": "Quanzhou",
     "Full Location": "福建 泉州",
-    "Long": 24.874132,
-    "Lat": 118.675675
+    "Lat": 24.874132,
+    "Long": 118.675675
   },
   {
     "Location": "漳州",
     "Translation": "Zhangzhou",
     "Full Location": "福建 漳州",
-    "Long": 24.513025,
-    "Lat": 117.647093
+    "Lat": 24.513025,
+    "Long": 117.647093
   },
   {
     "Location": "三明",
     "Translation": "Sanming",
     "Full Location": "福建 三明",
-    "Long": 26.263406,
-    "Lat": 117.638678
+    "Lat": 26.263406,
+    "Long": 117.638678
   },
   {
     "Location": "宁德",
     "Translation": "Ningde",
     "Full Location": "福建 宁德",
-    "Long": 26.665617,
-    "Lat": 119.547932
+    "Lat": 26.665617,
+    "Long": 119.547932
   },
   {
     "Location": "龙岩",
     "Translation": "Longyan",
     "Full Location": "福建 龙岩",
-    "Long": 25.075123,
-    "Lat": 117.017536
+    "Lat": 25.075123,
+    "Long": 117.017536
   },
   {
     "Location": "福州",
     "Translation": "Fuzhou",
     "Full Location": "福建 福州",
-    "Long": 26.074478,
-    "Lat": 119.296482
+    "Lat": 26.074478,
+    "Long": 119.296482
   },
   {
     "Location": "福建",
     "Translation": "Fujian",
     "Full Location": "福建",
-    "Long": 26.4836842,
-    "Lat": 117.9249002
+    "Lat": 26.4836842,
+    "Long": 117.9249002
   },
   {
     "Location": "嘉定区",
     "Translation": "Jiading District",
     "Full Location": "上海 嘉定区",
-    "Long": 31.375869,
-    "Lat": 121.265374
+    "Lat": 31.375869,
+    "Long": 121.265374
   },
   {
     "Location": "外地来沪人员",
     "Translation": "Foreigners coming to Shanghai",
     "Full Location": "上海 外地来沪人员",
-    "Long": 31.230416,
-    "Lat": 121.473701
+    "Lat": 31.230416,
+    "Long": 121.473701
   },
   {
     "Location": "松江区",
     "Translation": "Songjiang District",
     "Full Location": "上海 松江区",
-    "Long": 31.032243,
-    "Lat": 121.227747
+    "Lat": 31.032243,
+    "Long": 121.227747
   },
   {
     "Location": "黄浦区",
     "Translation": "Huangpu District",
     "Full Location": "上海 黄浦区",
-    "Long": 31.231763,
-    "Lat": 121.484443
+    "Lat": 31.231763,
+    "Long": 121.484443
   },
   {
     "Location": "长宁区",
     "Translation": "Changning District",
     "Full Location": "上海 长宁区",
-    "Long": 31.220367,
-    "Lat": 121.424624
+    "Lat": 31.220367,
+    "Long": 121.424624
   },
   {
     "Location": "待确认",
     "Translation": "to be confirmed",
     "Full Location": "上海 待确认",
-    "Long": 31.230416,
-    "Lat": 121.473701
+    "Lat": 31.230416,
+    "Long": 121.473701
   },
   {
     "Location": "青浦区",
     "Translation": "Qingpu District",
     "Full Location": "上海 青浦区",
-    "Long": 31.150681,
-    "Lat": 121.124178
+    "Lat": 31.150681,
+    "Long": 121.124178
   },
   {
     "Location": "闵行区",
     "Translation": "Minhang District",
     "Full Location": "上海 闵行区",
-    "Long": 31.112818,
-    "Lat": 121.381716
+    "Lat": 31.112818,
+    "Long": 121.381716
   },
   {
     "Location": "静安区",
     "Translation": "Jing'an District",
     "Full Location": "上海 静安区",
-    "Long": 31.223427,
-    "Lat": 121.455964
+    "Lat": 31.223427,
+    "Long": 121.455964
   },
   {
     "Location": "虹口区",
     "Translation": "Hongkou District",
     "Full Location": "上海 虹口区",
-    "Long": 31.2646,
-    "Lat": 121.505132
+    "Lat": 31.2646,
+    "Long": 121.505132
   },
   {
     "Location": "宝山区",
     "Translation": "Baoshan District",
     "Full Location": "上海 宝山区",
-    "Long": 31.405457,
-    "Lat": 121.489612
+    "Lat": 31.405457,
+    "Long": 121.489612
   },
   {
     "Location": "浦东新区",
     "Translation": "Pudong New Area",
     "Full Location": "上海 浦东新区",
-    "Long": 31.221517,
-    "Lat": 121.544379
+    "Lat": 31.221517,
+    "Long": 121.544379
   },
   {
     "Location": "杨浦区",
     "Translation": "Yangpu District",
     "Full Location": "上海 杨浦区",
-    "Long": 31.259822,
-    "Lat": 121.525727
+    "Lat": 31.259822,
+    "Long": 121.525727
   },
   {
     "Location": "徐汇区",
     "Translation": "Xuhui District",
     "Full Location": "上海 徐汇区",
-    "Long": 31.188637,
-    "Lat": 121.436539
+    "Lat": 31.188637,
+    "Long": 121.436539
   },
   {
     "Location": "奉贤区",
     "Translation": "Fengxian District",
     "Full Location": "上海 奉贤区",
-    "Long": 30.917795,
-    "Lat": 121.474042
+    "Lat": 30.917795,
+    "Long": 121.474042
   },
   {
     "Location": "金山区",
     "Translation": "Jinshan District",
     "Full Location": "上海 金山区",
-    "Long": 30.741991,
-    "Lat": 121.341969
+    "Lat": 30.741991,
+    "Long": 121.341969
   },
   {
     "Location": "普陀",
     "Translation": "Putuo",
     "Full Location": "上海 普陀",
-    "Long": 31.24984,
-    "Lat": 121.395555
+    "Lat": 31.24984,
+    "Long": 121.395555
   },
   {
     "Location": "崇明",
     "Translation": "Chongming",
     "Full Location": "上海 崇明",
-    "Long": 31.623728,
-    "Lat": 121.397421
+    "Lat": 31.623728,
+    "Long": 121.397421
   },
   {
     "Location": "上海",
     "Translation": "Shanghai",
     "Full Location": "上海",
-    "Long": 31.230416,
-    "Lat": 121.473701
+    "Lat": 31.230416,
+    "Long": 121.473701
   },
   {
     "Location": "东城区",
     "Translation": "Dongcheng Area",
     "Full Location": "北京 东城区",
-    "Long": 39.928353,
-    "Lat": 116.416357
+    "Lat": 39.928353,
+    "Long": 116.416357
   },
   {
     "Location": "海淀区",
     "Translation": "Haidian District",
     "Full Location": "北京 海淀区",
-    "Long": 39.959953,
-    "Lat": 116.298326
+    "Lat": 39.959953,
+    "Long": 116.298326
   },
   {
     "Location": "大兴区",
     "Translation": "Daxing District",
     "Full Location": "北京 大兴区",
-    "Long": 39.726929,
-    "Lat": 116.341395
+    "Lat": 39.726929,
+    "Long": 116.341395
   },
   {
     "Location": "朝阳区",
     "Translation": "Chaoyang District",
     "Full Location": "北京 朝阳区",
-    "Long": 39.921469,
-    "Lat": 116.443107
+    "Lat": 39.921469,
+    "Long": 116.443107
   },
   {
     "Location": "丰台区",
     "Translation": "Fengtai District",
     "Full Location": "北京 丰台区",
-    "Long": 39.858427,
-    "Lat": 116.287149
+    "Lat": 39.858427,
+    "Long": 116.287149
   },
   {
     "Location": "门头沟区",
     "Translation": "Mentougou District",
     "Full Location": "北京 门头沟区",
-    "Long": 39.940646,
-    "Lat": 116.102009
+    "Lat": 39.940646,
+    "Long": 116.102009
   },
   {
     "Location": "通州区",
     "Translation": "Tongzhou District",
     "Full Location": "北京 通州区",
-    "Long": 39.909946,
-    "Lat": 116.656434
+    "Lat": 39.909946,
+    "Long": 116.656434
   },
   {
     "Location": "顺义区",
     "Translation": "Shunyi District",
     "Full Location": "北京 顺义区",
-    "Long": 40.130347,
-    "Lat": 116.65465
+    "Lat": 40.130347,
+    "Long": 116.65465
   },
   {
     "Location": "石景山区",
     "Translation": "Shijingshan District",
     "Full Location": "北京 石景山区",
-    "Long": 39.906611,
-    "Lat": 116.222981
+    "Lat": 39.906611,
+    "Long": 116.222981
   },
   {
     "Location": "西城区",
     "Translation": "Xicheng District",
     "Full Location": "北京 西城区",
-    "Long": 39.912288,
-    "Lat": 116.365867
+    "Lat": 39.912288,
+    "Long": 116.365867
   },
   {
     "Location": "怀柔区",
     "Translation": "Huairou District",
     "Full Location": "北京 怀柔区",
-    "Long": 40.316304,
-    "Lat": 116.631979
+    "Lat": 40.316304,
+    "Long": 116.631979
   },
   {
     "Location": "昌平区",
     "Translation": "Changping District",
     "Full Location": "北京 昌平区",
-    "Long": 40.220659,
-    "Lat": 116.231203
+    "Lat": 40.220659,
+    "Long": 116.231203
   },
   {
     "Location": "外地来京人员",
     "Translation": "Foreigners coming to Beijing",
     "Full Location": "北京 外地来京人员",
-    "Long": 39.9041999,
-    "Lat": 116.4073963
+    "Lat": 39.9041999,
+    "Long": 116.4073963
   },
   {
     "Location": "待确认",
     "Translation": "to be confirmed",
     "Full Location": "北京 待确认",
-    "Long": 39.9041999,
-    "Lat": 116.4073963
+    "Lat": 39.9041999,
+    "Long": 116.4073963
   },
   {
     "Location": "房山区",
     "Translation": "Fangshan District",
     "Full Location": "北京 房山区",
-    "Long": 39.749144,
-    "Lat": 116.143267
+    "Lat": 39.749144,
+    "Long": 116.143267
   },
   {
     "Location": "延庆区",
     "Translation": "Yanqing District",
     "Full Location": "北京 延庆区",
-    "Long": 40.456951,
-    "Lat": 115.974848
+    "Lat": 40.456951,
+    "Long": 115.974848
   },
   {
     "Location": "北京",
     "Translation": "Beijing",
     "Full Location": "北京",
-    "Long": 39.9041999,
-    "Lat": 116.4073963
+    "Lat": 39.9041999,
+    "Long": 116.4073963
   },
   {
     "Location": "徐州",
     "Translation": "Xuzhou",
     "Full Location": "江苏 徐州",
-    "Long": 34.205768,
-    "Lat": 117.284124
+    "Lat": 34.205768,
+    "Long": 117.284124
   },
   {
     "Location": "扬州",
     "Translation": "Yangzhou",
     "Full Location": "江苏 扬州",
-    "Long": 32.394209,
-    "Lat": 119.412939
+    "Lat": 32.394209,
+    "Long": 119.412939
   },
   {
     "Location": "宿迁",
     "Translation": "Suqian",
     "Full Location": "江苏 宿迁",
-    "Long": 33.963232,
-    "Lat": 118.275198
+    "Lat": 33.963232,
+    "Long": 118.275198
   },
   {
     "Location": "镇江",
     "Translation": "Zhenjiang",
     "Full Location": "江苏 镇江",
-    "Long": 32.187849,
-    "Lat": 119.425836
+    "Lat": 32.187849,
+    "Long": 119.425836
   },
   {
     "Location": "连云港",
     "Translation": "Lianyungang",
     "Full Location": "江苏 连云港",
-    "Long": 34.596653,
-    "Lat": 119.221611
+    "Lat": 34.596653,
+    "Long": 119.221611
   },
   {
     "Location": "无锡",
     "Translation": "Wuxi",
     "Full Location": "江苏 无锡",
-    "Long": 31.491169,
-    "Lat": 120.31191
+    "Lat": 31.491169,
+    "Long": 120.31191
   },
   {
     "Location": "泰州",
     "Translation": "Taizhou",
     "Full Location": "江苏 泰州",
-    "Long": 32.455536,
-    "Lat": 119.922933
+    "Lat": 32.455536,
+    "Long": 119.922933
   },
   {
     "Location": "盐城",
     "Translation": "Yancheng",
     "Full Location": "江苏 盐城",
-    "Long": 33.347316,
-    "Lat": 120.16366
+    "Lat": 33.347316,
+    "Long": 120.16366
   },
   {
     "Location": "淮安",
     "Translation": "Huaian",
     "Full Location": "江苏 淮安",
-    "Long": 33.551052,
-    "Lat": 119.113185
+    "Lat": 33.551052,
+    "Long": 119.113185
   },
   {
     "Location": "南通",
     "Translation": "Nantong",
     "Full Location": "江苏 南通",
-    "Long": 31.980171,
-    "Lat": 120.894291
+    "Lat": 31.980171,
+    "Long": 120.894291
   },
   {
     "Location": "南京",
     "Translation": "Nanjing",
     "Full Location": "江苏 南京",
-    "Long": 32.060255,
-    "Lat": 118.796877
+    "Lat": 32.060255,
+    "Long": 118.796877
   },
   {
     "Location": "常州",
     "Translation": "Changzhou",
     "Full Location": "江苏 常州",
-    "Long": 31.811226,
-    "Lat": 119.974061
+    "Lat": 31.811226,
+    "Long": 119.974061
   },
   {
     "Location": "苏州",
     "Translation": "Suzhou",
     "Full Location": "江苏 苏州",
-    "Long": 31.298974,
-    "Lat": 120.585289
+    "Lat": 31.298974,
+    "Long": 120.585289
   },
   {
     "Location": "江苏",
     "Translation": "Jiangsu",
     "Full Location": "江苏",
-    "Long": 33.1401715,
-    "Lat": 119.7889248
+    "Lat": 33.1401715,
+    "Long": 119.7889248
   },
   {
     "Location": "遂宁",
     "Translation": "Suining",
     "Full Location": "四川 遂宁",
-    "Long": 30.532847,
-    "Lat": 105.592898
+    "Lat": 30.532847,
+    "Long": 105.592898
   },
   {
     "Location": "达州",
     "Translation": "Dazhou",
     "Full Location": "四川 达州",
-    "Long": 31.209571,
-    "Lat": 107.468023
+    "Lat": 31.209571,
+    "Long": 107.468023
   },
   {
     "Location": "内江",
     "Translation": "Neijiang",
     "Full Location": "四川 内江",
-    "Long": 29.580228,
-    "Lat": 105.058433
+    "Lat": 29.580228,
+    "Long": 105.058433
   },
   {
     "Location": "广安",
     "Translation": "Guang'an",
     "Full Location": "四川 广安",
-    "Long": 30.456224,
-    "Lat": 106.633088
+    "Lat": 30.456224,
+    "Long": 106.633088
   },
   {
     "Location": "宜宾",
     "Translation": "Yibin",
     "Full Location": "四川 宜宾",
-    "Long": 28.751836,
-    "Lat": 104.643159
+    "Lat": 28.751836,
+    "Long": 104.643159
   },
   {
     "Location": "凉山州",
     "Translation": "Liangshan Prefecture",
     "Full Location": "四川 凉山州",
-    "Long": 27.88157,
-    "Lat": 102.267712
+    "Lat": 27.88157,
+    "Long": 102.267712
   },
   {
     "Location": "乐山",
     "Translation": "Leshan",
     "Full Location": "四川 乐山",
-    "Long": 29.552115,
-    "Lat": 103.765678
+    "Lat": 29.552115,
+    "Long": 103.765678
   },
   {
     "Location": "眉山",
     "Translation": "Meishan",
     "Full Location": "四川 眉山",
-    "Long": 30.07728,
-    "Lat": 103.848396
+    "Lat": 30.07728,
+    "Long": 103.848396
   },
   {
     "Location": "德阳",
     "Translation": "Deyang",
     "Full Location": "四川 德阳",
-    "Long": 31.126855,
-    "Lat": 104.397894
+    "Lat": 31.126855,
+    "Long": 104.397894
   },
   {
     "Location": "巴中",
     "Translation": "Bazhong",
     "Full Location": "四川 巴中",
-    "Long": 31.867903,
-    "Lat": 106.747477
+    "Lat": 31.867903,
+    "Long": 106.747477
   },
   {
     "Location": "成都",
     "Translation": "Chengdu",
     "Full Location": "四川 成都",
-    "Long": 30.572815,
-    "Lat": 104.066801
+    "Lat": 30.572815,
+    "Long": 104.066801
   },
   {
     "Location": "南充",
     "Translation": "Nanchong",
     "Full Location": "四川 南充",
-    "Long": 30.837793,
-    "Lat": 106.110698
+    "Lat": 30.837793,
+    "Long": 106.110698
   },
   {
     "Location": "泸州",
     "Translation": "Luzhou",
     "Full Location": "四川 泸州",
-    "Long": 28.871569,
-    "Lat": 105.44174
+    "Lat": 28.871569,
+    "Long": 105.44174
   },
   {
     "Location": "绵阳",
     "Translation": "Mianyang",
     "Full Location": "四川 绵阳",
-    "Long": 31.46746,
-    "Lat": 104.679004
+    "Lat": 31.46746,
+    "Long": 104.679004
   },
   {
     "Location": "甘孜州",
     "Translation": "Ganzi Prefecture",
     "Full Location": "四川 甘孜州",
-    "Long": 30.04952,
-    "Lat": 101.96231
+    "Lat": 30.04952,
+    "Long": 101.96231
   },
   {
     "Location": "广元",
     "Translation": "Guangyuan",
     "Full Location": "四川 广元",
-    "Long": 32.435435,
-    "Lat": 105.843357
+    "Lat": 32.435435,
+    "Long": 105.843357
   },
   {
     "Location": "资阳",
     "Translation": "Ziyang",
     "Full Location": "四川 资阳",
-    "Long": 30.128901,
-    "Lat": 104.627636
+    "Lat": 30.128901,
+    "Long": 104.627636
   },
   {
     "Location": "自贡",
     "Translation": "Zigong",
     "Full Location": "四川 自贡",
-    "Long": 29.33903,
-    "Lat": 104.778442
+    "Lat": 29.33903,
+    "Long": 104.778442
   },
   {
     "Location": "雅安",
     "Translation": "Yaan",
     "Full Location": "四川 雅安",
-    "Long": 29.980537,
-    "Lat": 103.013261
+    "Lat": 29.980537,
+    "Long": 103.013261
   },
   {
     "Location": "攀枝花",
     "Translation": "Panzhihua",
     "Full Location": "四川 攀枝花",
-    "Long": 26.582347,
-    "Lat": 101.718637
+    "Lat": 26.582347,
+    "Long": 101.718637
   },
   {
     "Location": "阿坝州",
     "Translation": "Aba",
     "Full Location": "四川 阿坝州",
-    "Long": 31.899413,
-    "Lat": 102.224653
+    "Lat": 31.899413,
+    "Long": 102.224653
   },
   {
     "Location": "待确认",
     "Translation": "to be confirmed",
     "Full Location": "四川 待确认",
-    "Long": 30.2638032,
-    "Lat": 102.8054753
+    "Lat": 30.2638032,
+    "Long": 102.8054753
   },
   {
     "Location": "四川",
     "Translation": "Sichuan",
     "Full Location": "四川",
-    "Long": 30.2638032,
-    "Lat": 102.8054753
+    "Lat": 30.2638032,
+    "Long": 102.8054753
   },
   {
     "Location": "威海",
     "Translation": "Weihai",
     "Full Location": "山东 威海",
-    "Long": 37.513068,
-    "Lat": 122.120419
+    "Lat": 37.513068,
+    "Long": 122.120419
   },
   {
     "Location": "泰安",
     "Translation": "Taian",
     "Full Location": "山东 泰安",
-    "Long": 36.200252,
-    "Lat": 117.087614
+    "Lat": 36.200252,
+    "Long": 117.087614
   },
   {
     "Location": "济南",
     "Translation": "Jinan",
     "Full Location": "山东 济南",
-    "Long": 36.6512,
-    "Lat": 117.120095
+    "Lat": 36.6512,
+    "Long": 117.120095
   },
   {
     "Location": "枣庄",
     "Translation": "Zaozhuang",
     "Full Location": "山东 枣庄",
-    "Long": 34.810487,
-    "Lat": 117.323725
+    "Lat": 34.810487,
+    "Long": 117.323725
   },
   {
     "Location": "济宁",
     "Translation": "Jining",
     "Full Location": "山东 济宁",
-    "Long": 35.414982,
-    "Lat": 116.587282
+    "Lat": 35.414982,
+    "Long": 116.587282
   },
   {
     "Location": "临沂",
     "Translation": "Linyi",
     "Full Location": "山东 临沂",
-    "Long": 35.104673,
-    "Lat": 118.356414
+    "Lat": 35.104673,
+    "Long": 118.356414
   },
   {
     "Location": "青岛",
     "Translation": "Qingdao",
     "Full Location": "山东 青岛",
-    "Long": 36.067108,
-    "Lat": 120.382609
+    "Lat": 36.067108,
+    "Long": 120.382609
   },
   {
     "Location": "日照",
     "Translation": "Rizhao",
     "Full Location": "山东 日照",
-    "Long": 35.416734,
-    "Lat": 119.526925
+    "Lat": 35.416734,
+    "Long": 119.526925
   },
   {
     "Location": "菏泽",
     "Translation": "Heze",
     "Full Location": "山东 菏泽",
-    "Long": 35.23375,
-    "Lat": 115.480656
+    "Lat": 35.23375,
+    "Long": 115.480656
   },
   {
     "Location": "聊城",
     "Translation": "Liaocheng",
     "Full Location": "山东 聊城",
-    "Long": 36.45703,
-    "Lat": 115.98546
+    "Lat": 36.45703,
+    "Long": 115.98546
   },
   {
     "Location": "滨州",
     "Translation": "Binzhou",
     "Full Location": "山东 滨州",
-    "Long": 37.38198,
-    "Lat": 117.970699
+    "Lat": 37.38198,
+    "Long": 117.970699
   },
   {
     "Location": "潍坊",
     "Translation": "Weifang",
     "Full Location": "山东 潍坊",
-    "Long": 36.706962,
-    "Lat": 119.161748
+    "Lat": 36.706962,
+    "Long": 119.161748
   },
   {
     "Location": "德州",
     "Translation": "Dezhou",
     "Full Location": "山东 德州",
-    "Long": 37.434092,
-    "Lat": 116.357464
+    "Lat": 37.434092,
+    "Long": 116.357464
   },
   {
     "Location": "烟台",
     "Translation": "Yantai",
     "Full Location": "山东 烟台",
-    "Long": 37.464539,
-    "Lat": 121.447852
+    "Lat": 37.464539,
+    "Long": 121.447852
   },
   {
     "Location": "淄博",
     "Translation": "Zibo",
     "Full Location": "山东 淄博",
-    "Long": 36.813546,
-    "Lat": 118.055019
+    "Lat": 36.813546,
+    "Long": 118.055019
   },
   {
     "Location": "山东",
     "Translation": "Shandong",
     "Full Location": "山东",
-    "Long": 35.8939566,
-    "Lat": 117.9249002
+    "Lat": 35.8939566,
+    "Long": 117.9249002
   },
   {
     "Location": "吉安",
     "Translation": "Gian",
     "Full Location": "江西 吉安",
-    "Long": 27.087637,
-    "Lat": 114.964696
+    "Lat": 27.087637,
+    "Long": 114.964696
   },
   {
     "Location": "上饶",
     "Translation": "Shangrao",
     "Full Location": "江西 上饶",
-    "Long": 28.454862,
-    "Lat": 117.943433
+    "Lat": 28.454862,
+    "Long": 117.943433
   },
   {
     "Location": "九江",
     "Translation": "Jiujiang",
     "Full Location": "江西 九江",
-    "Long": 29.705077,
-    "Lat": 116.00193
+    "Lat": 29.705077,
+    "Long": 116.00193
   },
   {
     "Location": "新余",
     "Translation": "Xinyu",
     "Full Location": "江西 新余",
-    "Long": 27.817808,
-    "Lat": 114.917346
+    "Lat": 27.817808,
+    "Long": 114.917346
   },
   {
     "Location": "抚州",
     "Translation": "Fuzhou",
     "Full Location": "江西 抚州",
-    "Long": 27.949217,
-    "Lat": 116.358181
+    "Lat": 27.949217,
+    "Long": 116.358181
   },
   {
     "Location": "鹰潭",
     "Translation": "Yingtan",
     "Full Location": "江西 鹰潭",
-    "Long": 28.260189,
-    "Lat": 117.069202
+    "Lat": 28.260189,
+    "Long": 117.069202
   },
   {
     "Location": "宜春",
     "Translation": "Yichun",
     "Full Location": "江西 宜春",
-    "Long": 27.815743,
-    "Lat": 114.416785
+    "Lat": 27.815743,
+    "Long": 114.416785
   },
   {
     "Location": "景德镇",
     "Translation": "Jingdezhen",
     "Full Location": "江西 景德镇",
-    "Long": 29.268783,
-    "Lat": 117.178443
+    "Lat": 29.268783,
+    "Long": 117.178443
   },
   {
     "Location": "萍乡",
     "Translation": "Pingxiang",
     "Full Location": "江西 萍乡",
-    "Long": 27.622768,
-    "Lat": 113.854556
+    "Lat": 27.622768,
+    "Long": 113.854556
   },
   {
     "Location": "赣州",
     "Translation": "Ganzhou",
     "Full Location": "江西 赣州",
-    "Long": 25.830694,
-    "Lat": 114.933546
+    "Lat": 25.830694,
+    "Long": 114.933546
   },
   {
     "Location": "南昌",
     "Translation": "Nanchang",
     "Full Location": "江西 南昌",
-    "Long": 28.682892,
-    "Lat": 115.858197
+    "Lat": 28.682892,
+    "Long": 115.858197
   },
   {
     "Location": "江西",
     "Translation": "Jiangxi",
     "Full Location": "江西",
-    "Long": 27.0874564,
-    "Lat": 114.9042208
+    "Lat": 27.0874564,
+    "Long": 114.9042208
   },
   {
     "Location": "奉节县",
     "Translation": "Fengjie County",
     "Full Location": "重庆 奉节县",
-    "Long": 31.018498,
-    "Lat": 109.463987
+    "Lat": 31.018498,
+    "Long": 109.463987
   },
   {
     "Location": "武隆区",
     "Translation": "Wulong District",
     "Full Location": "重庆 武隆区",
-    "Long": 29.325601,
-    "Lat": 107.760025
+    "Lat": 29.325601,
+    "Long": 107.760025
   },
   {
     "Location": "永川区",
     "Translation": "Yongchuan District",
     "Full Location": "重庆 永川区",
-    "Long": 29.356117,
-    "Lat": 105.927375
+    "Lat": 29.356117,
+    "Long": 105.927375
   },
   {
     "Location": "两江新区",
     "Translation": "Liangjiang New District",
     "Full Location": "重庆 两江新区",
-    "Long": 29.6017886,
-    "Lat": 106.5075522
+    "Lat": 29.6017886,
+    "Long": 106.5075522
   },
   {
     "Location": "渝北区",
     "Translation": "Yu Bei District",
     "Full Location": "重庆 渝北区",
-    "Long": 29.718142,
-    "Lat": 106.631187
+    "Lat": 29.718142,
+    "Long": 106.631187
   },
   {
     "Location": "开州区",
     "Translation": "Kaizhou District",
     "Full Location": "重庆 开州区",
-    "Long": 31.2699214,
-    "Lat": 108.3816532
+    "Lat": 31.2699214,
+    "Long": 108.3816532
   },
   {
     "Location": "丰都县",
     "Translation": "Fengdu County",
     "Full Location": "重庆 丰都县",
-    "Long": 29.8635,
-    "Lat": 107.730894
+    "Lat": 29.8635,
+    "Long": 107.730894
   },
   {
     "Location": "巫山县",
     "Translation": "Wushan County",
     "Full Location": "重庆 巫山县",
-    "Long": 31.074834,
-    "Lat": 109.879153
+    "Lat": 31.074834,
+    "Long": 109.879153
   },
   {
     "Location": "大足区",
     "Translation": "Dazu District",
     "Full Location": "重庆 大足区",
-    "Long": 29.707032,
-    "Lat": 105.721733
+    "Lat": 29.707032,
+    "Long": 105.721733
   },
   {
     "Location": "忠县",
     "Translation": "Zhongxian",
     "Full Location": "重庆 忠县",
-    "Long": 30.299559,
-    "Lat": 108.039002
+    "Lat": 30.299559,
+    "Long": 108.039002
   },
   {
     "Location": "云阳县",
     "Translation": "Yunyang County",
     "Full Location": "重庆 云阳县",
-    "Long": 30.930612,
-    "Lat": 108.697324
+    "Lat": 30.930612,
+    "Long": 108.697324
   },
   {
     "Location": "璧山区",
     "Translation": "Laoshan District",
     "Full Location": "重庆 璧山区",
-    "Long": 29.592024,
-    "Lat": 106.227305
+    "Lat": 29.592024,
+    "Long": 106.227305
   },
   {
     "Location": "九龙坡区",
     "Translation": "Jiulongpo District",
     "Full Location": "重庆 九龙坡区",
-    "Long": 29.502272,
-    "Lat": 106.510676
+    "Lat": 29.502272,
+    "Long": 106.510676
   },
   {
     "Location": "潼南区",
     "Translation": "Taonan District",
     "Full Location": "重庆 潼南区",
-    "Long": 30.191013,
-    "Lat": 105.840555
+    "Lat": 30.191013,
+    "Long": 105.840555
   },
   {
     "Location": "大渡口区",
     "Translation": "Dadukou District",
     "Full Location": "重庆 大渡口区",
-    "Long": 29.484527,
-    "Lat": 106.482346
+    "Lat": 29.484527,
+    "Long": 106.482346
   },
   {
     "Location": "梁平区",
     "Translation": "Liangping District",
     "Full Location": "重庆 梁平区",
-    "Long": 30.674362,
-    "Lat": 107.803911
+    "Lat": 30.674362,
+    "Long": 107.803911
   },
   {
     "Location": "秀山县",
     "Translation": "Xiushan County",
     "Full Location": "重庆 秀山县",
-    "Long": 28.447997,
-    "Lat": 109.007094
+    "Lat": 28.447997,
+    "Long": 109.007094
   },
   {
     "Location": "万州区",
     "Translation": "Wanzhou District",
     "Full Location": "重庆 万州区",
-    "Long": 30.807667,
-    "Lat": 108.408661
+    "Lat": 30.807667,
+    "Long": 108.408661
   },
   {
     "Location": "南岸区",
     "Translation": "South Bank area",
     "Full Location": "重庆 南岸区",
-    "Long": 29.500296,
-    "Lat": 106.644428
+    "Lat": 29.500296,
+    "Long": 106.644428
   },
   {
     "Location": "石柱县",
     "Translation": "Shizhu County",
     "Full Location": "重庆 石柱县",
-    "Long": 29.999285,
-    "Lat": 108.114069
+    "Lat": 29.999285,
+    "Long": 108.114069
   },
   {
     "Location": "涪陵区",
     "Translation": "Fuling District",
     "Full Location": "重庆 涪陵区",
-    "Long": 29.703113,
-    "Lat": 107.389298
+    "Lat": 29.703113,
+    "Long": 107.389298
   },
   {
     "Location": "江北区",
     "Translation": "Jiangbei District",
     "Full Location": "重庆 江北区",
-    "Long": 29.606703,
-    "Lat": 106.574271
+    "Lat": 29.606703,
+    "Long": 106.574271
   },
   {
     "Location": "綦江区",
     "Translation": "Qijiang District",
     "Full Location": "重庆 綦江区",
-    "Long": 29.028066,
-    "Lat": 106.651361
+    "Lat": 29.028066,
+    "Long": 106.651361
   },
   {
     "Location": "巫溪县",
     "Translation": "Wuxi County",
     "Full Location": "重庆 巫溪县",
-    "Long": 31.398604,
-    "Lat": 109.570062
+    "Lat": 31.398604,
+    "Long": 109.570062
   },
   {
     "Location": "长寿区",
     "Translation": "Changshou District",
     "Full Location": "重庆 长寿区",
-    "Long": 29.857996,
-    "Lat": 107.081282
+    "Lat": 29.857996,
+    "Long": 107.081282
   },
   {
     "Location": "城口县",
     "Translation": "Chengkou County",
     "Full Location": "重庆 城口县",
-    "Long": 31.947633,
-    "Lat": 108.664214
+    "Lat": 31.947633,
+    "Long": 108.664214
   },
   {
     "Location": "合川区",
     "Translation": "Hechuan District",
     "Full Location": "重庆 合川区",
-    "Long": 29.972084,
-    "Lat": 106.27613
+    "Lat": 29.972084,
+    "Long": 106.27613
   },
   {
     "Location": "垫江县",
     "Translation": "Dianjiang County",
     "Full Location": "重庆 垫江县",
-    "Long": 30.327716,
-    "Lat": 107.33339
+    "Lat": 30.327716,
+    "Long": 107.33339
   },
   {
     "Location": "江津区",
     "Translation": "Jiangjin District",
     "Full Location": "重庆 江津区",
-    "Long": 29.290069,
-    "Lat": 106.259281
+    "Lat": 29.290069,
+    "Long": 106.259281
   },
   {
     "Location": "黔江区",
     "Translation": "Qianjiang District",
     "Full Location": "重庆 黔江区",
-    "Long": 29.533609,
-    "Lat": 108.770677
+    "Lat": 29.533609,
+    "Long": 108.770677
   },
   {
     "Location": "渝中区",
     "Translation": "Yuzhong District",
     "Full Location": "重庆 渝中区",
-    "Long": 29.552736,
-    "Lat": 106.568896
+    "Lat": 29.552736,
+    "Long": 106.568896
   },
   {
     "Location": "巴南区",
     "Translation": "Banan District",
     "Full Location": "重庆 巴南区",
-    "Long": 29.402408,
-    "Lat": 106.540256
+    "Lat": 29.402408,
+    "Long": 106.540256
   },
   {
     "Location": "铜梁区",
     "Translation": "Tongliang District",
     "Full Location": "重庆 铜梁区",
-    "Long": 29.844811,
-    "Lat": 106.056404
+    "Lat": 29.844811,
+    "Long": 106.056404
   },
   {
     "Location": "荣昌区",
     "Translation": "Rongchang District",
     "Full Location": "重庆 荣昌区",
-    "Long": 29.405002,
-    "Lat": 105.594623
+    "Lat": 29.405002,
+    "Long": 105.594623
   },
   {
     "Location": "沙坪坝",
     "Translation": "Shapingba",
     "Full Location": "重庆 沙坪坝",
-    "Long": 29.541144,
-    "Lat": 106.456877
+    "Lat": 29.541144,
+    "Long": 106.456877
   },
   {
     "Location": "高新区",
     "Translation": "High-tech Zone",
     "Full Location": "重庆 高新区",
-    "Long": 29.5279566,
-    "Lat": 106.4874971
+    "Lat": 29.5279566,
+    "Long": 106.4874971
   },
   {
     "Location": "彭水",
     "Translation": "Peng Shui",
     "Full Location": "重庆 彭水",
-    "Long": 29.293902,
-    "Lat": 108.165537
+    "Lat": 29.293902,
+    "Long": 108.165537
   },
   {
     "Location": "重庆",
     "Translation": "Chongqing",
     "Full Location": "重庆",
-    "Long": 29.4315861,
-    "Lat": 106.912251
+    "Lat": 29.4315861,
+    "Long": 106.912251
   },
   {
     "Location": "安庆",
     "Translation": "Anqing",
     "Full Location": "安徽 安庆",
-    "Long": 30.531919,
-    "Lat": 117.115101
+    "Lat": 30.531919,
+    "Long": 117.115101
   },
   {
     "Location": "芜湖",
     "Translation": "Wuhu",
     "Full Location": "安徽 芜湖",
-    "Long": 31.352859,
-    "Lat": 118.432941
+    "Lat": 31.352859,
+    "Long": 118.432941
   },
   {
     "Location": "亳州",
     "Translation": "Luzhou",
     "Full Location": "安徽 亳州",
-    "Long": 33.844582,
-    "Lat": 115.778676
+    "Lat": 33.844582,
+    "Long": 115.778676
   },
   {
     "Location": "黄山",
     "Translation": "Huangshan",
     "Full Location": "安徽 黄山",
-    "Long": 29.714699,
-    "Lat": 118.337521
+    "Lat": 29.714699,
+    "Long": 118.337521
   },
   {
     "Location": "淮北",
     "Translation": "Huaibei",
     "Full Location": "安徽 淮北",
-    "Long": 33.955844,
-    "Lat": 116.798265
+    "Lat": 33.955844,
+    "Long": 116.798265
   },
   {
     "Location": "蚌埠",
     "Translation": "Bengbu",
     "Full Location": "安徽 蚌埠",
-    "Long": 32.916287,
-    "Lat": 117.389719
+    "Lat": 32.916287,
+    "Long": 117.389719
   },
   {
     "Location": "马鞍山",
     "Translation": "Maanshan",
     "Full Location": "安徽 马鞍山",
-    "Long": 31.67044,
-    "Lat": 118.507011
+    "Lat": 31.67044,
+    "Long": 118.507011
   },
   {
     "Location": "铜陵",
     "Translation": "Tongling",
     "Full Location": "安徽 铜陵",
-    "Long": 30.945515,
-    "Lat": 117.81154
+    "Lat": 30.945515,
+    "Long": 117.81154
   },
   {
     "Location": "池州",
     "Translation": "Chizhou",
     "Full Location": "安徽 池州",
-    "Long": 30.656037,
-    "Lat": 117.489156
+    "Lat": 30.656037,
+    "Long": 117.489156
   },
   {
     "Location": "宿州",
     "Translation": "Suzhou",
     "Full Location": "安徽 宿州",
-    "Long": 33.646357,
-    "Lat": 116.964358
+    "Lat": 33.646357,
+    "Long": 116.964358
   },
   {
     "Location": "合肥",
     "Translation": "Hefei",
     "Full Location": "安徽 合肥",
-    "Long": 31.820591,
-    "Lat": 117.227219
+    "Lat": 31.820591,
+    "Long": 117.227219
   },
   {
     "Location": "宣城",
     "Translation": "Xuancheng",
     "Full Location": "安徽 宣城",
-    "Long": 30.940195,
-    "Lat": 118.75868
+    "Lat": 30.940195,
+    "Long": 118.75868
   },
   {
     "Location": "滁州",
     "Translation": "Luzhou",
     "Full Location": "安徽 滁州",
-    "Long": 32.253425,
-    "Lat": 118.328321
+    "Lat": 32.253425,
+    "Long": 118.328321
   },
   {
     "Location": "阜阳",
     "Translation": "Fuyang",
     "Full Location": "安徽 阜阳",
-    "Long": 32.890479,
-    "Lat": 115.814504
+    "Lat": 32.890479,
+    "Long": 115.814504
   },
   {
     "Location": "淮南",
     "Translation": "Huainan",
     "Full Location": "安徽 淮南",
-    "Long": 32.625478,
-    "Lat": 116.999932
+    "Lat": 32.625478,
+    "Long": 116.999932
   },
   {
     "Location": "六安",
     "Translation": "Lu'an",
     "Full Location": "安徽 六安",
-    "Long": 31.734476,
-    "Lat": 116.521442
+    "Lat": 31.734476,
+    "Long": 116.521442
   },
   {
     "Location": "安徽",
     "Translation": "Anhui",
     "Full Location": "安徽",
-    "Long": 30.6006773,
-    "Lat": 117.9249002
+    "Lat": 30.6006773,
+    "Long": 117.9249002
   },
   {
     "Location": "衡阳",
     "Translation": "Hengyang",
     "Full Location": "湖南 衡阳",
-    "Long": 26.893368,
-    "Lat": 112.572018
+    "Lat": 26.893368,
+    "Long": 112.572018
   },
   {
     "Location": "娄底",
     "Translation": "Lou Di",
     "Full Location": "湖南 娄底",
-    "Long": 27.700062,
-    "Lat": 111.993497
+    "Lat": 27.700062,
+    "Long": 111.993497
   },
   {
     "Location": "湘潭",
     "Translation": "Xiangtan",
     "Full Location": "湖南 湘潭",
-    "Long": 27.829795,
-    "Lat": 112.944026
+    "Lat": 27.829795,
+    "Long": 112.944026
   },
   {
     "Location": "永州",
     "Translation": "Yongzhou",
     "Full Location": "湖南 永州",
-    "Long": 26.420394,
-    "Lat": 111.613445
+    "Lat": 26.420394,
+    "Long": 111.613445
   },
   {
     "Location": "常德",
     "Translation": "Changde",
     "Full Location": "湖南 常德",
-    "Long": 29.031654,
-    "Lat": 111.698784
+    "Lat": 29.031654,
+    "Long": 111.698784
   },
   {
     "Location": "张家界",
     "Translation": "Zhangjiajie",
     "Full Location": "湖南 张家界",
-    "Long": 29.117096,
-    "Lat": 110.479191
+    "Lat": 29.117096,
+    "Long": 110.479191
   },
   {
     "Location": "岳阳",
     "Translation": "Yue Yang",
     "Full Location": "湖南 岳阳",
-    "Long": 29.356803,
-    "Lat": 113.12873
+    "Lat": 29.356803,
+    "Long": 113.12873
   },
   {
     "Location": "株洲",
     "Translation": "Zhuzhou",
     "Full Location": "湖南 株洲",
-    "Long": 27.827986,
-    "Lat": 113.133853
+    "Lat": 27.827986,
+    "Long": 113.133853
   },
   {
     "Location": "长沙",
     "Translation": "Changsha",
     "Full Location": "湖南 长沙",
-    "Long": 28.228209,
-    "Lat": 112.938814
+    "Lat": 28.228209,
+    "Long": 112.938814
   },
   {
     "Location": "邵阳",
     "Translation": "Shao Yang",
     "Full Location": "湖南 邵阳",
-    "Long": 27.23895,
-    "Lat": 111.467674
+    "Lat": 27.23895,
+    "Long": 111.467674
   },
   {
     "Location": "湘西州",
     "Translation": "Xiangxi",
     "Full Location": "湖南 湘西州",
-    "Long": 28.312001,
-    "Lat": 109.738781
+    "Lat": 28.312001,
+    "Long": 109.738781
   },
   {
     "Location": "郴州",
     "Translation": "Luzhou",
     "Full Location": "湖南 郴州",
-    "Long": 25.770509,
-    "Lat": 113.014717
+    "Lat": 25.770509,
+    "Long": 113.014717
   },
   {
     "Location": "怀化",
     "Translation": "Huaihua",
     "Full Location": "湖南 怀化",
-    "Long": 27.569517,
-    "Lat": 110.001922
+    "Lat": 27.569517,
+    "Long": 110.001922
   },
   {
     "Location": "益阳",
     "Translation": "Yiyang",
     "Full Location": "湖南 益阳",
-    "Long": 28.55386,
-    "Lat": 112.35518
+    "Lat": 28.55386,
+    "Long": 112.35518
   },
   {
     "Location": "湖南",
     "Translation": "Hunan",
     "Full Location": "湖南",
-    "Long": 27.6252995,
-    "Lat": 111.8568586
+    "Lat": 27.6252995,
+    "Long": 111.8568586
   },
   {
     "Location": "安阳",
     "Translation": "Anyang",
     "Full Location": "河南 安阳",
-    "Long": 36.097577,
-    "Lat": 114.392392
+    "Lat": 36.097577,
+    "Long": 114.392392
   },
   {
     "Location": "信阳",
     "Translation": "Xinyang",
     "Full Location": "河南 信阳",
-    "Long": 32.147679,
-    "Lat": 114.091192
+    "Lat": 32.147679,
+    "Long": 114.091192
   },
   {
     "Location": "周口",
     "Translation": "Zhoukou",
     "Full Location": "河南 周口",
-    "Long": 33.626149,
-    "Lat": 114.69695
+    "Lat": 33.626149,
+    "Long": 114.69695
   },
   {
     "Location": "开封",
     "Translation": "Kaifeng",
     "Full Location": "河南 开封",
-    "Long": 34.797281,
-    "Lat": 114.307582
+    "Lat": 34.797281,
+    "Long": 114.307582
   },
   {
     "Location": "许昌",
     "Translation": "Xu Chang",
     "Full Location": "河南 许昌",
-    "Long": 34.035771,
-    "Lat": 113.852454
+    "Lat": 34.035771,
+    "Long": 113.852454
   },
   {
     "Location": "濮阳",
     "Translation": "Liyang",
     "Full Location": "河南 濮阳",
-    "Long": 35.761829,
-    "Lat": 115.029215
+    "Lat": 35.761829,
+    "Long": 115.029215
   },
   {
     "Location": "漯河",
     "Translation": "Luohe",
     "Full Location": "河南 漯河",
-    "Long": 33.580873,
-    "Lat": 114.016536
+    "Lat": 33.580873,
+    "Long": 114.016536
   },
   {
     "Location": "郑州",
     "Translation": "Zhengzhou",
     "Full Location": "河南 郑州",
-    "Long": 34.746611,
-    "Lat": 113.625328
+    "Lat": 34.746611,
+    "Long": 113.625328
   },
   {
     "Location": "三门峡",
     "Translation": "Sanmenxia",
     "Full Location": "河南 三门峡",
-    "Long": 34.772792,
-    "Lat": 111.200367
+    "Lat": 34.772792,
+    "Long": 111.200367
   },
   {
     "Location": "驻马店",
     "Translation": "Zhumadian",
     "Full Location": "河南 驻马店",
-    "Long": 33.011529,
-    "Lat": 114.022298
+    "Lat": 33.011529,
+    "Long": 114.022298
   },
   {
     "Location": "南阳",
     "Translation": "Nanyang",
     "Full Location": "河南 南阳",
-    "Long": 32.990664,
-    "Lat": 112.528308
+    "Lat": 32.990664,
+    "Long": 112.528308
   },
   {
     "Location": "鹤壁",
     "Translation": "Hebi",
     "Full Location": "河南 鹤壁",
-    "Long": 35.748233,
-    "Lat": 114.297201
+    "Lat": 35.748233,
+    "Long": 114.297201
   },
   {
     "Location": "商丘",
     "Translation": "Shangqiu",
     "Full Location": "河南 商丘",
-    "Long": 34.414961,
-    "Lat": 115.656339
+    "Lat": 34.414961,
+    "Long": 115.656339
   },
   {
     "Location": "洛阳",
     "Translation": "Luoyang",
     "Full Location": "河南 洛阳",
-    "Long": 34.620202,
-    "Lat": 112.453926
+    "Lat": 34.620202,
+    "Long": 112.453926
   },
   {
     "Location": "新乡",
     "Translation": "Xinxiang",
     "Full Location": "河南 新乡",
-    "Long": 35.303704,
-    "Lat": 113.926763
+    "Lat": 35.303704,
+    "Long": 113.926763
   },
   {
     "Location": "焦作",
     "Translation": "Jiaozuo",
     "Full Location": "河南 焦作",
-    "Long": 35.215892,
-    "Lat": 113.241823
+    "Lat": 35.215892,
+    "Long": 113.241823
   },
   {
     "Location": "平顶山",
     "Translation": "Pingdingshan",
     "Full Location": "河南 平顶山",
-    "Long": 33.766169,
-    "Lat": 113.192661
+    "Lat": 33.766169,
+    "Long": 113.192661
   },
   {
     "Location": "待确认",
     "Translation": "to be confirmed",
     "Full Location": "河南 待确认",
-    "Long": 34.2904302,
-    "Lat": 113.3823545
+    "Lat": 34.2904302,
+    "Long": 113.3823545
   },
   {
     "Location": "济源示范区",
     "Translation": "Jiyuan Demonstration Area",
     "Full Location": "河南 济源示范区",
-    "Long": 35.067243,
-    "Lat": 112.601918
+    "Lat": 35.067243,
+    "Long": 112.601918
   },
   {
     "Location": "河南",
     "Translation": "Henan",
     "Full Location": "河南",
-    "Long": 34.2904302,
-    "Lat": 113.3823545
+    "Lat": 34.2904302,
+    "Long": 113.3823545
   },
   {
     "Location": "肇庆",
     "Translation": "Zhaoqing",
     "Full Location": "广东 肇庆",
-    "Long": 23.047191,
-    "Lat": 112.465091
+    "Lat": 23.047191,
+    "Long": 112.465091
   },
   {
     "Location": "珠海",
     "Translation": "Zhuhai",
     "Full Location": "广东 珠海",
-    "Long": 22.270978,
-    "Lat": 113.576677
+    "Lat": 22.270978,
+    "Long": 113.576677
   },
   {
     "Location": "河源",
     "Translation": "Heyuan",
     "Full Location": "广东 河源",
-    "Long": 23.743685,
-    "Lat": 114.700961
+    "Lat": 23.743685,
+    "Long": 114.700961
   },
   {
     "Location": "佛山",
     "Translation": "Foshan",
     "Full Location": "广东 佛山",
-    "Long": 23.021478,
-    "Lat": 113.121435
+    "Lat": 23.021478,
+    "Long": 113.121435
   },
   {
     "Location": "清远",
     "Translation": "Qingyuan",
     "Full Location": "广东 清远",
-    "Long": 23.681774,
-    "Lat": 113.056042
+    "Lat": 23.681774,
+    "Long": 113.056042
   },
   {
     "Location": "汕尾",
     "Translation": "Shanwei",
     "Full Location": "广东 汕尾",
-    "Long": 22.786186,
-    "Lat": 115.375158
+    "Lat": 22.786186,
+    "Long": 115.375158
   },
   {
     "Location": "茂名",
     "Translation": "Maoming",
     "Full Location": "广东 茂名",
-    "Long": 21.662991,
-    "Lat": 110.925439
+    "Lat": 21.662991,
+    "Long": 110.925439
   },
   {
     "Location": "阳江",
     "Translation": "Yangjiang",
     "Full Location": "广东 阳江",
-    "Long": 21.857958,
-    "Lat": 111.982232
+    "Lat": 21.857958,
+    "Long": 111.982232
   },
   {
     "Location": "湛江",
     "Translation": "Zhanjiang",
     "Full Location": "广东 湛江",
-    "Long": 21.270702,
-    "Lat": 110.359368
+    "Lat": 21.270702,
+    "Long": 110.359368
   },
   {
     "Location": "中山",
     "Translation": "Zhongshan",
     "Full Location": "广东 中山",
-    "Long": 22.517585,
-    "Lat": 113.39277
+    "Lat": 22.517585,
+    "Long": 113.39277
   },
   {
     "Location": "惠州",
     "Translation": "Huizhou",
     "Full Location": "广东 惠州",
-    "Long": 23.112257,
-    "Lat": 114.415801
+    "Lat": 23.112257,
+    "Long": 114.415801
   },
   {
     "Location": "揭阳",
     "Translation": "Jieyang",
     "Full Location": "广东 揭阳",
-    "Long": 23.549701,
-    "Lat": 116.372708
+    "Lat": 23.549701,
+    "Long": 116.372708
   },
   {
     "Location": "梅州",
     "Translation": "Meizhou",
     "Full Location": "广东 梅州",
-    "Long": 24.288578,
-    "Lat": 116.122523
+    "Lat": 24.288578,
+    "Long": 116.122523
   },
   {
     "Location": "深圳",
     "Translation": "Shenzhen",
     "Full Location": "广东 深圳",
-    "Long": 22.543096,
-    "Lat": 114.057865
+    "Lat": 22.543096,
+    "Long": 114.057865
   },
   {
     "Location": "汕头",
     "Translation": "Shantou",
     "Full Location": "广东 汕头",
-    "Long": 23.354091,
-    "Lat": 116.681972
+    "Lat": 23.354091,
+    "Long": 116.681972
   },
   {
     "Location": "江门",
     "Translation": "Jiangmen",
     "Full Location": "广东 江门",
-    "Long": 22.579117,
-    "Lat": 113.081508
+    "Lat": 22.579117,
+    "Long": 113.081508
   },
   {
     "Location": "韶关",
     "Translation": "Shaoguan",
     "Full Location": "广东 韶关",
-    "Long": 24.810879,
-    "Lat": 113.59762
+    "Lat": 24.810879,
+    "Long": 113.59762
   },
   {
     "Location": "东莞",
     "Translation": "Dongguan",
     "Full Location": "广东 东莞",
-    "Long": 23.020673,
-    "Lat": 113.751799
+    "Lat": 23.020673,
+    "Long": 113.751799
   },
   {
     "Location": "广州",
     "Translation": "Guangzhou",
     "Full Location": "广东 广州",
-    "Long": 23.12911,
-    "Lat": 113.264385
+    "Lat": 23.12911,
+    "Long": 113.264385
   },
   {
     "Location": "潮州",
     "Translation": "Chaozhou",
     "Full Location": "广东 潮州",
-    "Long": 23.656703,
-    "Lat": 116.622756
+    "Lat": 23.656703,
+    "Long": 116.622756
   },
   {
     "Location": "广东",
     "Translation": "Guangdong",
     "Full Location": "广东",
-    "Long": 23.3790333,
-    "Lat": 113.7632828
+    "Lat": 23.3790333,
+    "Long": 113.7632828
   },
   {
     "Location": "台州",
     "Translation": "Taizhou",
     "Full Location": "浙江 台州",
-    "Long": 28.65638,
-    "Lat": 121.42076
+    "Lat": 28.65638,
+    "Long": 121.42076
   },
   {
     "Location": "嘉兴",
     "Translation": "Jiaxing",
     "Full Location": "浙江 嘉兴",
-    "Long": 30.753924,
-    "Lat": 120.758543
+    "Lat": 30.753924,
+    "Long": 120.758543
   },
   {
     "Location": "湖州",
     "Translation": "Huzhou",
     "Full Location": "浙江 湖州",
-    "Long": 30.89441,
-    "Lat": 120.086809
+    "Lat": 30.89441,
+    "Long": 120.086809
   },
   {
     "Location": "舟山",
     "Translation": "Zhoushan",
     "Full Location": "浙江 舟山",
-    "Long": 29.985295,
-    "Lat": 122.207215
+    "Lat": 29.985295,
+    "Long": 122.207215
   },
   {
     "Location": "绍兴",
     "Translation": "Shaoxing",
     "Full Location": "浙江 绍兴",
-    "Long": 29.995762,
-    "Lat": 120.586109
+    "Lat": 29.995762,
+    "Long": 120.586109
   },
   {
     "Location": "宁波",
     "Translation": "Ningbo",
     "Full Location": "浙江 宁波",
-    "Long": 29.868336,
-    "Lat": 121.54399
+    "Lat": 29.868336,
+    "Long": 121.54399
   },
   {
     "Location": "杭州",
     "Translation": "Hangzhou",
     "Full Location": "浙江 杭州",
-    "Long": 30.274084,
-    "Lat": 120.15507
+    "Lat": 30.274084,
+    "Long": 120.15507
   },
   {
     "Location": "金华",
     "Translation": "Jinhua",
     "Full Location": "浙江 金华",
-    "Long": 29.079175,
-    "Lat": 119.64742
+    "Lat": 29.079175,
+    "Long": 119.64742
   },
   {
     "Location": "丽水",
     "Translation": "Lishui",
     "Full Location": "浙江 丽水",
-    "Long": 28.46763,
-    "Lat": 119.922796
+    "Lat": 28.46763,
+    "Long": 119.922796
   },
   {
     "Location": "温州",
     "Translation": "Wenzhou",
     "Full Location": "浙江 温州",
-    "Long": 27.993828,
-    "Lat": 120.699361
+    "Lat": 27.993828,
+    "Long": 120.699361
   },
   {
     "Location": "衢州",
     "Translation": "Luzhou",
     "Full Location": "浙江 衢州",
-    "Long": 28.970079,
-    "Lat": 118.859457
+    "Lat": 28.970079,
+    "Long": 118.859457
   },
   {
     "Location": "浙江",
     "Translation": "Zhejiang",
     "Full Location": "浙江",
-    "Long": 29.1416432,
-    "Lat": 119.7889248
+    "Lat": 29.1416432,
+    "Long": 119.7889248
   },
   {
     "Location": "仙桃",
     "Translation": "Xiantao",
     "Full Location": "湖北 仙桃",
-    "Long": 30.360882,
-    "Lat": 113.423482
+    "Lat": 30.360882,
+    "Long": 113.423482
   },
   {
     "Location": "天门",
     "Translation": "Tianmen",
     "Full Location": "湖北 天门",
-    "Long": 30.653061,
-    "Lat": 113.165862
+    "Lat": 30.653061,
+    "Long": 113.165862
   },
   {
     "Location": "随州",
     "Translation": "Suizhou",
     "Full Location": "湖北 随州",
-    "Long": 31.690215,
-    "Lat": 113.382458
+    "Lat": 31.690215,
+    "Long": 113.382458
   },
   {
     "Location": "咸宁",
     "Translation": "Xianning",
     "Full Location": "湖北 咸宁",
-    "Long": 29.841438,
-    "Lat": 114.322439
+    "Lat": 29.841438,
+    "Long": 114.322439
   },
   {
     "Location": "十堰",
     "Translation": "Shiyan",
     "Full Location": "湖北 十堰",
-    "Long": 32.629398,
-    "Lat": 110.798266
+    "Lat": 32.629398,
+    "Long": 110.798266
   },
   {
     "Location": "恩施",
     "Translation": "Enshi",
     "Full Location": "湖北 恩施",
-    "Long": 30.272156,
-    "Lat": 109.488172
+    "Lat": 30.272156,
+    "Long": 109.488172
   },
   {
     "Location": "待确认",
     "Translation": "to be confirmed",
     "Full Location": "湖北 待确认",
-    "Long": 30.7378118,
-    "Lat": 112.2384017
+    "Lat": 30.7378118,
+    "Long": 112.2384017
   },
   {
     "Location": "襄阳",
     "Translation": "Xiangyang",
     "Full Location": "湖北 襄阳",
-    "Long": 32.009016,
-    "Lat": 112.122426
+    "Lat": 32.009016,
+    "Long": 112.122426
   },
   {
     "Location": "荆州",
     "Translation": "Jingzhou",
     "Full Location": "湖北 荆州",
-    "Long": 30.335237,
-    "Lat": 112.239631
+    "Lat": 30.335237,
+    "Long": 112.239631
   },
   {
     "Location": "神农架地区",
     "Translation": "Shennongjia area",
     "Full Location": "湖北 神农架地区",
-    "Long": 31.743483,
-    "Lat": 110.680447
+    "Lat": 31.743483,
+    "Long": 110.680447
   },
   {
     "Location": "宜昌",
     "Translation": "Yichang",
     "Full Location": "湖北 宜昌",
-    "Long": 30.691966,
-    "Lat": 111.286471
+    "Lat": 30.691966,
+    "Long": 111.286471
   },
   {
     "Location": "潜江",
     "Translation": "Qianjiang",
     "Full Location": "湖北 潜江",
-    "Long": 30.402167,
-    "Lat": 112.899762
+    "Lat": 30.402167,
+    "Long": 112.899762
   },
   {
     "Location": "武汉",
     "Translation": "Wuhan",
     "Full Location": "湖北 武汉",
-    "Long": 30.592849,
-    "Lat": 114.305539
+    "Lat": 30.592849,
+    "Long": 114.305539
   },
   {
     "Location": "黄冈",
     "Translation": "Huanggang",
     "Full Location": "湖北 黄冈",
-    "Long": 30.453667,
-    "Lat": 114.872199
+    "Lat": 30.453667,
+    "Long": 114.872199
   },
   {
     "Location": "孝感",
     "Translation": "Xiaogan",
     "Full Location": "湖北 孝感",
-    "Long": 30.917766,
-    "Lat": 113.957037
+    "Lat": 30.917766,
+    "Long": 113.957037
   },
   {
     "Location": "黄石",
     "Translation": "Huangshi",
     "Full Location": "湖北 黄石",
-    "Long": 30.20003,
-    "Lat": 115.038835
+    "Lat": 30.20003,
+    "Long": 115.038835
   },
   {
     "Location": "荆门",
     "Translation": "Jingmen",
     "Full Location": "湖北 荆门",
-    "Long": 31.035395,
-    "Lat": 112.199427
+    "Lat": 31.035395,
+    "Long": 112.199427
   },
   {
     "Location": "鄂州",
     "Translation": "Ezhou",
     "Full Location": "湖北 鄂州",
-    "Long": 30.39194,
-    "Lat": 114.894843
+    "Lat": 30.39194,
+    "Long": 114.894843
   },
   {
     "Location": "湖北",
     "Translation": "Hubei",
     "Full Location": "湖北",
-    "Long": 30.7378118,
-    "Lat": 112.2384017
+    "Lat": 30.7378118,
+    "Long": 112.2384017
   },
   {
     "Location": "比利时",
     "Translation": "Belgium",
     "Full Location": "比利时",
-    "Long": 50.503887,
-    "Lat": 4.469936
+    "Lat": 50.503887,
+    "Long": 4.469936
   },
   {
     "Location": "西班牙",
     "Translation": "Spain",
     "Full Location": "西班牙",
-    "Long": 40.463667,
-    "Lat": -3.74922
+    "Lat": 40.463667,
+    "Long": -3.74922
   },
   {
     "Location": "瑞典",
     "Translation": "Sweden",
     "Full Location": "瑞典",
-    "Long": 60.128161,
-    "Lat": 18.643501
+    "Lat": 60.128161,
+    "Long": 18.643501
   },
   {
     "Location": "俄罗斯",
     "Translation": "Russia",
     "Full Location": "俄罗斯",
-    "Long": 61.52401,
-    "Lat": 105.318756
+    "Lat": 61.52401,
+    "Long": 105.318756
   },
   {
     "Location": "英国",
     "Translation": "United Kingdom",
     "Full Location": "英国",
-    "Long": 55.378051,
-    "Lat": -3.435973
+    "Lat": 55.378051,
+    "Long": -3.435973
   },
   {
     "Location": "意大利",
     "Translation": "Italy",
     "Full Location": "意大利",
-    "Long": 41.87194,
-    "Lat": 12.56738
+    "Lat": 41.87194,
+    "Long": 12.56738
   },
   {
     "Location": "印度",
     "Translation": "India",
     "Full Location": "印度",
-    "Long": 20.593684,
-    "Lat": 78.96288
+    "Lat": 20.593684,
+    "Long": 78.96288
   },
   {
     "Location": "菲律宾",
     "Translation": "Philippines",
     "Full Location": "菲律宾",
-    "Long": 12.879721,
-    "Lat": 121.774017
+    "Lat": 12.879721,
+    "Long": 121.774017
   },
   {
     "Location": "芬兰",
     "Translation": "Finland",
     "Full Location": "芬兰",
-    "Long": 61.92411,
-    "Lat": 25.7481511
+    "Lat": 61.92411,
+    "Long": 25.7481511
   },
   {
     "Location": "阿联酋",
     "Translation": "United Arab Emirates",
     "Full Location": "阿联酋",
-    "Long": 23.424076,
-    "Lat": 53.847818
+    "Lat": 23.424076,
+    "Long": 53.847818
   },
   {
     "Location": "斯里兰卡",
     "Translation": "Sri Lanka",
     "Full Location": "斯里兰卡",
-    "Long": 7.873054,
-    "Lat": 80.771797
+    "Lat": 7.873054,
+    "Long": 80.771797
   },
   {
     "Location": "柬埔寨",
     "Translation": "Cambodia",
     "Full Location": "柬埔寨",
-    "Long": 12.565679,
-    "Lat": 104.990963
+    "Lat": 12.565679,
+    "Long": 104.990963
   },
   {
     "Location": "尼泊尔",
     "Translation": "Nepal",
     "Full Location": "尼泊尔",
-    "Long": 28.394857,
-    "Lat": 84.124008
+    "Lat": 28.394857,
+    "Long": 84.124008
   },
   {
     "Location": "加拿大",
     "Translation": "Canada",
     "Full Location": "加拿大",
-    "Long": 56.130366,
-    "Lat": -106.346771
+    "Lat": 56.130366,
+    "Long": -106.346771
   },
   {
     "Location": "德国",
     "Translation": "Germany",
     "Full Location": "德国",
-    "Long": 51.165691,
-    "Lat": 10.451526
+    "Lat": 51.165691,
+    "Long": 10.451526
   },
   {
     "Location": "越南",
     "Translation": "Vietnam",
     "Full Location": "越南",
-    "Long": 14.058324,
-    "Lat": 108.277199
+    "Lat": 14.058324,
+    "Long": 108.277199
   },
   {
     "Location": "法国",
     "Translation": "France",
     "Full Location": "法国",
-    "Long": 46.227638,
-    "Lat": 2.213749
+    "Lat": 46.227638,
+    "Long": 2.213749
   },
   {
     "Location": "美国",
     "Translation": "United States",
     "Full Location": "美国",
-    "Long": 37.09024,
-    "Lat": -95.712891
+    "Lat": 37.09024,
+    "Long": -95.712891
   },
   {
     "Location": "韩国",
     "Translation": "Korea",
     "Full Location": "韩国",
-    "Long": 35.907757,
-    "Lat": 127.766922
+    "Lat": 35.907757,
+    "Long": 127.766922
   },
   {
     "Location": "澳大利亚",
     "Translation": "Australia",
     "Full Location": "澳大利亚",
-    "Long": -25.274398,
-    "Lat": 133.775136
+    "Lat": -25.274398,
+    "Long": 133.775136
   },
   {
     "Location": "马来西亚",
     "Translation": "Malaysia",
     "Full Location": "马来西亚",
-    "Long": 4.210484,
-    "Lat": 101.975766
+    "Lat": 4.210484,
+    "Long": 101.975766
   },
   {
     "Location": "日本",
     "Translation": "Japan",
     "Full Location": "日本",
-    "Long": 36.204824,
-    "Lat": 138.252924
+    "Lat": 36.204824,
+    "Long": 138.252924
   },
   {
     "Location": "新加坡",
     "Translation": "Singapore",
     "Full Location": "新加坡",
-    "Long": 1.352083,
-    "Lat": 103.819836
+    "Lat": 1.352083,
+    "Long": 103.819836
   },
   {
     "Location": "泰国",
     "Translation": "Thailand",
     "Full Location": "泰国",
-    "Long": 15.870032,
-    "Lat": 100.992541
+    "Lat": 15.870032,
+    "Long": 100.992541
   }
 ]
